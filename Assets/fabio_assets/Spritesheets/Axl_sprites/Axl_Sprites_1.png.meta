@@ -1,0 +1,2864 @@
+fileFormatVersion: 2
+guid: b704c1907b017a3449823c8c37a9b916
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: Axl_Sprites_1_0
+  - first:
+      213: 21300002
+    second: Axl_Sprites_1_1
+  - first:
+      213: 21300004
+    second: Axl_Sprites_1_2
+  - first:
+      213: 21300006
+    second: Axl_Sprites_1_3
+  - first:
+      213: 21300008
+    second: Axl_Sprites_1_4
+  - first:
+      213: 21300010
+    second: Axl_Sprites_1_5
+  - first:
+      213: 21300012
+    second: Axl_Sprites_1_6
+  - first:
+      213: 21300014
+    second: Axl_Sprites_1_7
+  - first:
+      213: 21300016
+    second: Axl_Sprites_1_8
+  - first:
+      213: 21300018
+    second: Axl_Sprites_1_9
+  - first:
+      213: 21300020
+    second: Axl_Sprites_1_10
+  - first:
+      213: 21300022
+    second: Axl_Sprites_1_11
+  - first:
+      213: 21300024
+    second: Axl_Sprites_1_12
+  - first:
+      213: 21300026
+    second: Axl_Sprites_1_13
+  - first:
+      213: 21300028
+    second: Axl_Sprites_1_14
+  - first:
+      213: 21300030
+    second: Axl_Sprites_1_15
+  - first:
+      213: 21300032
+    second: Axl_Sprites_1_16
+  - first:
+      213: 21300034
+    second: Axl_Sprites_1_17
+  - first:
+      213: 21300036
+    second: Axl_Sprites_1_18
+  - first:
+      213: 21300038
+    second: Axl_Sprites_1_19
+  - first:
+      213: 21300040
+    second: Axl_Sprites_1_20
+  - first:
+      213: 21300042
+    second: Axl_Sprites_1_21
+  - first:
+      213: 21300044
+    second: Axl_Sprites_1_22
+  - first:
+      213: 21300046
+    second: Axl_Sprites_1_23
+  - first:
+      213: 21300048
+    second: Axl_Sprites_1_24
+  - first:
+      213: 21300050
+    second: Axl_Sprites_1_25
+  - first:
+      213: 21300052
+    second: Axl_Sprites_1_26
+  - first:
+      213: 21300054
+    second: Axl_Sprites_1_27
+  - first:
+      213: 21300056
+    second: Axl_Sprites_1_28
+  - first:
+      213: 21300058
+    second: Axl_Sprites_1_29
+  - first:
+      213: 21300060
+    second: Axl_Sprites_1_30
+  - first:
+      213: 21300062
+    second: Axl_Sprites_1_31
+  - first:
+      213: 21300064
+    second: Axl_Sprites_1_32
+  - first:
+      213: 21300066
+    second: Axl_Sprites_1_33
+  - first:
+      213: 21300068
+    second: Axl_Sprites_1_34
+  - first:
+      213: 21300070
+    second: Axl_Sprites_1_35
+  - first:
+      213: 21300072
+    second: Axl_Sprites_1_36
+  - first:
+      213: 21300074
+    second: Axl_Sprites_1_37
+  - first:
+      213: 21300076
+    second: Axl_Sprites_1_38
+  - first:
+      213: 21300078
+    second: Axl_Sprites_1_39
+  - first:
+      213: 21300080
+    second: Axl_Sprites_1_40
+  - first:
+      213: 21300082
+    second: Axl_Sprites_1_41
+  - first:
+      213: 21300084
+    second: Axl_Sprites_1_42
+  - first:
+      213: 21300086
+    second: Axl_Sprites_1_43
+  - first:
+      213: 21300088
+    second: Axl_Sprites_1_44
+  - first:
+      213: 21300090
+    second: Axl_Sprites_1_45
+  - first:
+      213: 21300092
+    second: Axl_Sprites_1_46
+  - first:
+      213: 21300094
+    second: Axl_Sprites_1_47
+  - first:
+      213: 21300096
+    second: Axl_Sprites_1_48
+  - first:
+      213: 21300098
+    second: Axl_Sprites_1_49
+  - first:
+      213: 21300100
+    second: Axl_Sprites_1_50
+  - first:
+      213: 21300102
+    second: Axl_Sprites_1_51
+  - first:
+      213: 21300104
+    second: Axl_Sprites_1_52
+  - first:
+      213: 21300106
+    second: Axl_Sprites_1_53
+  - first:
+      213: 21300108
+    second: Axl_Sprites_1_54
+  - first:
+      213: 21300110
+    second: Axl_Sprites_1_55
+  - first:
+      213: 21300112
+    second: Axl_Sprites_1_56
+  - first:
+      213: 21300114
+    second: Axl_Sprites_1_57
+  - first:
+      213: 21300116
+    second: Axl_Sprites_1_58
+  - first:
+      213: 21300118
+    second: Axl_Sprites_1_59
+  - first:
+      213: 21300120
+    second: Axl_Sprites_1_60
+  - first:
+      213: 21300122
+    second: Axl_Sprites_1_61
+  - first:
+      213: 21300124
+    second: Axl_Sprites_1_62
+  - first:
+      213: 21300126
+    second: Axl_Sprites_1_63
+  - first:
+      213: 21300128
+    second: Axl_Sprites_1_64
+  - first:
+      213: 21300130
+    second: Axl_Sprites_1_65
+  - first:
+      213: 21300132
+    second: Axl_Sprites_1_66
+  - first:
+      213: 21300134
+    second: Axl_Sprites_1_67
+  - first:
+      213: 21300136
+    second: Axl_Sprites_1_68
+  - first:
+      213: 21300138
+    second: Axl_Sprites_1_69
+  - first:
+      213: 21300140
+    second: Axl_Sprites_1_70
+  - first:
+      213: 21300142
+    second: Axl_Sprites_1_71
+  - first:
+      213: 21300144
+    second: Axl_Sprites_1_72
+  - first:
+      213: 21300146
+    second: Axl_Sprites_1_73
+  - first:
+      213: 21300148
+    second: Axl_Sprites_1_74
+  - first:
+      213: 21300150
+    second: Axl_Sprites_1_75
+  - first:
+      213: 21300152
+    second: Axl_Sprites_1_76
+  - first:
+      213: 21300154
+    second: Axl_Sprites_1_77
+  - first:
+      213: 21300156
+    second: Axl_Sprites_1_78
+  - first:
+      213: 21300158
+    second: Axl_Sprites_1_79
+  - first:
+      213: 21300160
+    second: Axl_Sprites_1_80
+  - first:
+      213: 21300162
+    second: Axl_Sprites_1_81
+  - first:
+      213: 21300164
+    second: Axl_Sprites_1_82
+  - first:
+      213: 21300166
+    second: Axl_Sprites_1_83
+  - first:
+      213: 21300168
+    second: Axl_Sprites_1_84
+  - first:
+      213: 21300170
+    second: Axl_Sprites_1_85
+  - first:
+      213: 21300172
+    second: Axl_Sprites_1_86
+  - first:
+      213: 21300174
+    second: Axl_Sprites_1_87
+  - first:
+      213: 21300176
+    second: Axl_Sprites_1_88
+  - first:
+      213: 21300178
+    second: Axl_Sprites_1_89
+  - first:
+      213: 21300180
+    second: Axl_Sprites_1_90
+  - first:
+      213: 21300182
+    second: Axl_Sprites_1_91
+  - first:
+      213: 21300184
+    second: Axl_Sprites_1_92
+  - first:
+      213: 21300186
+    second: Axl_Sprites_1_93
+  - first:
+      213: 21300188
+    second: Axl_Sprites_1_94
+  - first:
+      213: 21300190
+    second: Axl_Sprites_1_95
+  - first:
+      213: 21300192
+    second: Axl_Sprites_1_96
+  - first:
+      213: 21300194
+    second: Axl_Sprites_1_97
+  - first:
+      213: 21300196
+    second: Axl_Sprites_1_98
+  - first:
+      213: 21300198
+    second: Axl_Sprites_1_99
+  - first:
+      213: 21300200
+    second: Axl_Sprites_1_100
+  - first:
+      213: 21300202
+    second: Axl_Sprites_1_101
+  - first:
+      213: 21300204
+    second: Axl_Sprites_1_102
+  - first:
+      213: 21300206
+    second: Axl_Sprites_1_103
+  - first:
+      213: 21300208
+    second: Axl_Sprites_1_104
+  - first:
+      213: 21300210
+    second: Axl_Sprites_1_105
+  - first:
+      213: 21300212
+    second: Axl_Sprites_1_106
+  - first:
+      213: 21300214
+    second: Axl_Sprites_1_107
+  - first:
+      213: 21300216
+    second: Axl_Sprites_1_108
+  - first:
+      213: 21300218
+    second: Axl_Sprites_1_109
+  - first:
+      213: 21300220
+    second: Axl_Sprites_1_110
+  - first:
+      213: 21300222
+    second: Axl_Sprites_1_111
+  - first:
+      213: 21300224
+    second: Axl_Sprites_1_112
+  - first:
+      213: 21300226
+    second: Axl_Sprites_1_113
+  - first:
+      213: 21300228
+    second: Axl_Sprites_1_114
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Axl_Sprites_1_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 728
+        width: 6
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3283628301eac84f946494e3b4d7565
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_1
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 728
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f531e53f26bd014380bba65389cf07b
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_2
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 721
+        width: 44
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7c3461e4849c494ea9fe65faf212ce7
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_3
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 718
+        width: 50
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e89d6b0f06f76e40b476cdaa917c481
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_4
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 712
+        width: 61
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a9d0d724def7f441b59186245a29ed9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_5
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 712
+        width: 61
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a335e59f7fa31449582e4bb3cd21f0
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 713
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2553c8c68aca0b438f12254944c93b1
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_7
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 713
+        width: 61
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c70b5380325b5d044817a391cad2e043
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_8
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 713
+        width: 61
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48cf8b28d42ea8b48b8ed7f9492b6ed9
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_9
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 709
+        width: 75
+        height: 74
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31caa07b8f1d498419ce5147cc8a7646
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_10
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 707
+        width: 79
+        height: 78
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d870113d4643d154db8ca18543f0437d
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 627
+        width: 46
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed873a796fbb1c242beac10cfba0ab57
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_12
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 627
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd8f8bf71fb4d1d49b49b04d1bac53ee
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_13
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 626
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d461e7e8760df44855fac7ae3793d8
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_14
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 626
+        width: 33
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc98c436dfa83944c97e29a7b8fdfc1b
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_15
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 626
+        width: 34
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 02b11e3798e74ee44a93b6d650a2e52a
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_16
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 626
+        width: 28
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19abbbd375a41074eab7af6c678062ff
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_17
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 626
+        width: 33
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f46a27162830df48947e93de63082eb
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_18
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 628
+        width: 43
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1eb32772d87b5934495eb15126844f2e
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_19
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 626
+        width: 53
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae116612538f4cf459194f3085e1aa80
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_20
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 626
+        width: 52
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ce1fc8c818aa9a479ab73d978349cdb
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_21
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 626
+        width: 49
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de236efa472c84949be0fe0b23cf31d8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_22
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 626
+        width: 52
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c23517f7135b7d49977899835e1b5d1
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_23
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 626
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 990ef207d6733684b87b9905d608e377
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 566
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3325a20e71973894f8287c0767648196
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_25
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 566
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0827579e055c8254894b1fdb37331e8e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_26
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 566
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e701166c607a60c41adc0795eec4bd10
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_27
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 566
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5a4e34197eac314da629daef83972ad
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_28
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 566
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19dee7e4d99de6b45aa8433251738d29
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_29
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 566
+        width: 30
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff0d8954edd7fc4e9f805e323bf8d49
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_30
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 566
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3bbb336b797d8499b671703910695c
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_31
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 566
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 145e8710407aeb84c8f4a0248e58b9d7
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_32
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 566
+        width: 30
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fced940771b76fa46833fa86aaec7485
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_33
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 566
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c8e148aaa525994aa36e2f03b3dbd62
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_34
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 566
+        width: 36
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45bf2af3752d06a4491a1bf6245b734d
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_35
+      rect:
+        serializedVersion: 2
+        x: 481
+        y: 566
+        width: 35
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1090939c3a1f5949b1f0490309899e7
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 494
+        width: 30
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f47aa646aa69a428cc0e2a82bb86ab
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_37
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 494
+        width: 30
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a939bb85f11819d479aa8cdecff7808c
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_38
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 494
+        width: 31
+        height: 61
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 200b71c51cbfc2e429845fb9ea83fb06
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_39
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 494
+        width: 30
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9244bf2c6ace404b8da62eaa19d50b8
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_40
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 494
+        width: 42
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81bf993a59edebe45aea70e67c85d083
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_41
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 494
+        width: 42
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f00fb81ad4d4e459071ef1425120b6
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_42
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 494
+        width: 48
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6078de434a1354fa5242d200649326
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_43
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 494
+        width: 48
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c14caeb311fab944807831b96273a6d
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_44
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 494
+        width: 50
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfada0228ab851945a06ed34991782f0
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_45
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 494
+        width: 49
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94a3ee891f36d664c84384b6f3e5bde5
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_46
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 438
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 770f2ebf0edd29d4fbc11cad10c20821
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_47
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 438
+        width: 44
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91d64c2007d44ff4b8b45c51c6370299
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_48
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 434
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b2df5796ec28994aa92b554887f4ae5
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_49
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 438
+        width: 42
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 679b1eeaaaec78e4bbf1455bd089f6d1
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_50
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 438
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f0b4c4876f7d0643b6c805447deeac2
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_51
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 438
+        width: 35
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62553f13dbc65e640b4f69355b291f85
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_52
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 438
+        width: 27
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28f59890d8f57bc43b739aa475355623
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_53
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 438
+        width: 27
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ec135460589f9a46a0f88d1a6af2bd4
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_54
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 376
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ba1e45de305b364889ec4d295b83d3c
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_55
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 376
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bc4e59decae61c478af1bc830a9c4ad
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_56
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 376
+        width: 25
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edcaa86616497c343808153e9d04be1a
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_57
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 376
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d1e94939b6c30b42a281101e89e09d6
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_58
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 376
+        width: 41
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15c69f6771d835642b5e29f9bb3ddbe6
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_59
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 376
+        width: 35
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68d487ef8614ba546a0eac504f25db07
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_60
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 376
+        width: 30
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62dbdd8954d17e14987d376f3044a995
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_61
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 376
+        width: 29
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 161da9049efc0304e910d26e3d585821
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_62
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 376
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3069fe2c93d3664b9dccae029ad214c
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_63
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 376
+        width: 38
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6eac22226e300d04ab574f21708ebc29
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_64
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 376
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d65552c6d0631ce48bcda4ff36605050
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_65
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 376
+        width: 30
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee87ad4df62c3a4c8fb1f05bf6fa845
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_66
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 315
+        width: 28
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af20498906ab5034881bad8cbc15e100
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_67
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 315
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 537e68ae87ee1bd4da6061dbe577a243
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_68
+      rect:
+        serializedVersion: 2
+        x: 91
+        y: 315
+        width: 55
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a896e6806381e14488be91531efadbef
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_69
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 315
+        width: 55
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a70e15d1b28f664aa94668df5b25d92
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_70
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 316
+        width: 46
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 734f13289da1a4a4a9332da1c403d088
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_71
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 315
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef7a101cfac6ea24da29efc480a7a38c
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_72
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 316
+        width: 39
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d5f2e0bce761840948ed9ad94c9928
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_73
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 316
+        width: 36
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70409a83902fe85419dc36740bd6968f
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_74
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 258
+        width: 42
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d15aad4cc800640ac86830f3b707c8
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_75
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 257
+        width: 51
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 114d7e5277ccc64439a03fbfe133fcd4
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_76
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 254
+        width: 50
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e309bfd7dd133a4c97a0db393192bc1
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_77
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 256
+        width: 38
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb8701cef149af943a8d31d1214c85e4
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_78
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 253
+        width: 33
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 699113cc5cb56eb4ab78c6ecc97a6c55
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_79
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 256
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fbd06a0dcbd11e24c8fe539c5adf5483
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_80
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 258
+        width: 37
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 398de9cd696671a47b70abf141af0f28
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_81
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 258
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fecda8798b7b8864cbad138689bca7b1
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_82
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 258
+        width: 30
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ada6bb6f790de64aa5bbe44265f1924
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_83
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 172
+        width: 31
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5eb50f94568ea2a498d37e183ba1c8ed
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_84
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 172
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90b82b53d176c8438431c98c6df4694
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_85
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 172
+        width: 32
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f609abe551f41a3459c75378d2583acb
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_86
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 173
+        width: 31
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1821d3d29ec6d554fbcbfa2a539840ae
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_87
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 174
+        width: 29
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9bfb05d0a5818bc4e848d6a04f75bfa4
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_88
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 175
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312d9b56dbf8ba641b7887243ed89294
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_89
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 174
+        width: 35
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 578dfe1a9eca3084f959afc46d8640d2
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_90
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 174
+        width: 37
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eeb3ee5a252fd4d4b85c72c321f97def
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_91
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 173
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8e527899d8c56d469632dc2b0435fbc
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_92
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 173
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 870b5b4cac2b26248be457ccd1951a1b
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_93
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 172
+        width: 31
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e5c5498e2c12a140b0b1d7ce525377d
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_94
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 172
+        width: 42
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14776f6be47f9cb44a78ebf26aa047c8
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_95
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 81
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e275d2f379ae90842a70f7505c259211
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_96
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 81
+        width: 54
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ece6e3bd05962e42a53a3023e2be557
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_97
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 82
+        width: 26
+        height: 67
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a403641efb24ed64586b92ec39aed721
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_98
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 83
+        width: 26
+        height: 66
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a118188de5343c943845da3e67fde4d8
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_99
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 82
+        width: 33
+        height: 63
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d89a5c2d627c804489a1dbf69d3d448e
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_100
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 83
+        width: 33
+        height: 62
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada726f180048fb4abef4e5eaded42f8
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_101
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 82
+        width: 43
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5935f831e73076f4fb7090598a078666
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_102
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 83
+        width: 42
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4d891144224f4cc47bdee5cae2aa5949
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_103
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 82
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ab0d041b9fb3047bc00fc901da3e1f
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_104
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 83
+        width: 52
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d78cd0fb51ba4864aa6372afd3733069
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_105
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 82
+        width: 58
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed34335e897e3b548b5449405c6eea66
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_106
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 82
+        width: 58
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 598fade54f3b6ba4fbeb557fe511e911
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_107
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 82
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f64b6757fcce4344884ab931da00f2b
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_108
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 15
+        width: 55
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 154e2c92e32a12141b60527d3b1d3f0a
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_109
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 14
+        width: 51
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16535b1f38baed4d9b3e8543a97658d
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_110
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 14
+        width: 51
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91da3e4d8ceb45d49945131c526461f5
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_111
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 14
+        width: 44
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f08e88e2aa7d3b548a7d7d1379ab5b63
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_112
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 14
+        width: 44
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dc9a9d3e3e5c648b36e1e8edfc0303
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_113
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 14
+        width: 32
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20d36207be601c24794a0ab97a70161e
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Axl_Sprites_1_114
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 13
+        width: 32
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 507eea3584d859e40a47a5cc06d70568
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 18b89720e15924e41ad58559bd31d26f
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

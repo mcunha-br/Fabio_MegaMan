@@ -1,0 +1,632 @@
+fileFormatVersion: 2
+guid: b56a1fcaead5804459c61325356f67cc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: vile_sprites_rm_0
+  - first:
+      213: 21300002
+    second: vile_sprites_rm_1
+  - first:
+      213: 21300004
+    second: vile_sprites_rm_2
+  - first:
+      213: 21300006
+    second: vile_sprites_rm_3
+  - first:
+      213: 21300008
+    second: vile_sprites_rm_4
+  - first:
+      213: 21300010
+    second: vile_sprites_rm_5
+  - first:
+      213: 21300012
+    second: vile_sprites_rm_6
+  - first:
+      213: 21300014
+    second: vile_sprites_rm_7
+  - first:
+      213: 21300016
+    second: vile_sprites_rm_8
+  - first:
+      213: 21300018
+    second: vile_sprites_rm_9
+  - first:
+      213: 21300020
+    second: vile_sprites_rm_10
+  - first:
+      213: 21300022
+    second: vile_sprites_rm_11
+  - first:
+      213: 21300024
+    second: vile_sprites_rm_12
+  - first:
+      213: 21300026
+    second: vile_sprites_rm_13
+  - first:
+      213: 21300028
+    second: vile_sprites_rm_14
+  - first:
+      213: 21300030
+    second: vile_sprites_rm_15
+  - first:
+      213: 21300032
+    second: vile_sprites_rm_16
+  - first:
+      213: 21300034
+    second: vile_sprites_rm_17
+  - first:
+      213: 21300036
+    second: vile_sprites_rm_18
+  - first:
+      213: 21300038
+    second: vile_sprites_rm_19
+  - first:
+      213: 21300040
+    second: vile_sprites_rm_20
+  - first:
+      213: 21300042
+    second: vile_sprites_rm_21
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vile_sprites_rm_0
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 127
+        width: 44
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93e551108f0c0db4fb093100e21357fe
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_1
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 127
+        width: 53
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41cd6bfbff8eafa49ad73118e369e9f6
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 127
+        width: 47
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 336821ba88bab5043826c385c9104c21
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_3
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 127
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a9a81db1bc6a8f49893f3b405df460b
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_4
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 127
+        width: 39
+        height: 60
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 366940c57fca8e6449e11679f3cf4c38
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_5
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 127
+        width: 47
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dec44c2bde3b6a47adcc30f78ff9a4a
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 63
+        width: 41
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c9979b9a16a5441a18fea6c987c5d2
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_8
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 64
+        width: 39
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 618de72122f190b408f6a9d0e83fb805
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_9
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 64
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1266793489c6b8441800690fe58855a6
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_10
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 64
+        width: 31
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e39cc66fe764b8f449431cb7bc5d02e4
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_11
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 34
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b960f0a19a5c0a44bd41264fee01220
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_12
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 64
+        width: 45
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78586353ff60adf458b3efcd064d6fe9
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_13
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 64
+        width: 45
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bedf41b32d436e4aa821da1f01c4c17
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_14
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b65bc0da67a141838f89e531cd530
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_15
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 2
+        width: 30
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79c42106feed5904e9430d5f0ecdaac6
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2
+        width: 31
+        height: 57
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1765ebd74eb8b8f45b80dc75b55f9e3f
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3
+        width: 48
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b185bdcc4be91e041a3a8b06232813f4
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_18
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3
+        width: 51
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 308c08977cb4fba479fc4f81a6788b34
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_19
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 3
+        width: 52
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b6105f7224ef564887c0d5d0c3304ec
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_20
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 3
+        width: 55
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ce209e15ae886649a079f90b3ecfa1d
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 63
+        width: 43
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 216180bd9382e54458dad81213dd49e3
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vile_sprites_rm_21
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 2
+        width: 41
+        height: 59
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba3f315282f4b70488784fff0092ab15
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 8fa7dfde12cce724996d0b7d0e45a62c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

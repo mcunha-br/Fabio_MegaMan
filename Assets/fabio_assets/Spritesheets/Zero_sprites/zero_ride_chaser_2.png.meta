@@ -1,0 +1,2744 @@
+fileFormatVersion: 2
+guid: 34be6b1baad42144992db26da8fb61c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zero_ride_chaser_2_0
+  - first:
+      213: 21300002
+    second: zero_ride_chaser_2_1
+  - first:
+      213: 21300004
+    second: zero_ride_chaser_2_2
+  - first:
+      213: 21300006
+    second: zero_ride_chaser_2_3
+  - first:
+      213: 21300008
+    second: zero_ride_chaser_2_4
+  - first:
+      213: 21300010
+    second: zero_ride_chaser_2_5
+  - first:
+      213: 21300012
+    second: zero_ride_chaser_2_6
+  - first:
+      213: 21300014
+    second: zero_ride_chaser_2_7
+  - first:
+      213: 21300016
+    second: zero_ride_chaser_2_8
+  - first:
+      213: 21300018
+    second: zero_ride_chaser_2_9
+  - first:
+      213: 21300020
+    second: zero_ride_chaser_2_10
+  - first:
+      213: 21300022
+    second: zero_ride_chaser_2_11
+  - first:
+      213: 21300024
+    second: zero_ride_chaser_2_12
+  - first:
+      213: 21300026
+    second: zero_ride_chaser_2_13
+  - first:
+      213: 21300028
+    second: zero_ride_chaser_2_14
+  - first:
+      213: 21300030
+    second: zero_ride_chaser_2_15
+  - first:
+      213: 21300032
+    second: zero_ride_chaser_2_16
+  - first:
+      213: 21300034
+    second: zero_ride_chaser_2_17
+  - first:
+      213: 21300036
+    second: zero_ride_chaser_2_18
+  - first:
+      213: 21300038
+    second: zero_ride_chaser_2_19
+  - first:
+      213: 21300040
+    second: zero_ride_chaser_2_20
+  - first:
+      213: 21300042
+    second: zero_ride_chaser_2_21
+  - first:
+      213: 21300044
+    second: zero_ride_chaser_2_22
+  - first:
+      213: 21300046
+    second: zero_ride_chaser_2_23
+  - first:
+      213: 21300048
+    second: zero_ride_chaser_2_24
+  - first:
+      213: 21300050
+    second: zero_ride_chaser_2_25
+  - first:
+      213: 21300052
+    second: zero_ride_chaser_2_26
+  - first:
+      213: 21300054
+    second: zero_ride_chaser_2_27
+  - first:
+      213: 21300056
+    second: zero_ride_chaser_2_28
+  - first:
+      213: 21300058
+    second: zero_ride_chaser_2_29
+  - first:
+      213: 21300060
+    second: zero_ride_chaser_2_30
+  - first:
+      213: 21300062
+    second: zero_ride_chaser_2_31
+  - first:
+      213: 21300064
+    second: zero_ride_chaser_2_32
+  - first:
+      213: 21300066
+    second: zero_ride_chaser_2_33
+  - first:
+      213: 21300068
+    second: zero_ride_chaser_2_34
+  - first:
+      213: 21300070
+    second: zero_ride_chaser_2_35
+  - first:
+      213: 21300072
+    second: zero_ride_chaser_2_36
+  - first:
+      213: 21300074
+    second: zero_ride_chaser_2_37
+  - first:
+      213: 21300076
+    second: zero_ride_chaser_2_38
+  - first:
+      213: 21300078
+    second: zero_ride_chaser_2_39
+  - first:
+      213: 21300080
+    second: zero_ride_chaser_2_40
+  - first:
+      213: 21300082
+    second: zero_ride_chaser_2_41
+  - first:
+      213: 21300084
+    second: zero_ride_chaser_2_42
+  - first:
+      213: 21300086
+    second: zero_ride_chaser_2_43
+  - first:
+      213: 21300088
+    second: zero_ride_chaser_2_44
+  - first:
+      213: 21300090
+    second: zero_ride_chaser_2_45
+  - first:
+      213: 21300092
+    second: zero_ride_chaser_2_46
+  - first:
+      213: 21300094
+    second: zero_ride_chaser_2_47
+  - first:
+      213: 21300096
+    second: zero_ride_chaser_2_48
+  - first:
+      213: 21300098
+    second: zero_ride_chaser_2_49
+  - first:
+      213: 21300100
+    second: zero_ride_chaser_2_50
+  - first:
+      213: 21300102
+    second: zero_ride_chaser_2_51
+  - first:
+      213: 21300104
+    second: zero_ride_chaser_2_52
+  - first:
+      213: 21300106
+    second: zero_ride_chaser_2_53
+  - first:
+      213: 21300108
+    second: zero_ride_chaser_2_54
+  - first:
+      213: 21300110
+    second: zero_ride_chaser_2_55
+  - first:
+      213: 21300112
+    second: zero_ride_chaser_2_56
+  - first:
+      213: 21300114
+    second: zero_ride_chaser_2_57
+  - first:
+      213: 21300116
+    second: zero_ride_chaser_2_58
+  - first:
+      213: 21300118
+    second: zero_ride_chaser_2_59
+  - first:
+      213: 21300120
+    second: zero_ride_chaser_2_60
+  - first:
+      213: 21300122
+    second: zero_ride_chaser_2_61
+  - first:
+      213: 21300124
+    second: zero_ride_chaser_2_62
+  - first:
+      213: 21300126
+    second: zero_ride_chaser_2_63
+  - first:
+      213: 21300128
+    second: zero_ride_chaser_2_64
+  - first:
+      213: 21300130
+    second: zero_ride_chaser_2_65
+  - first:
+      213: 21300132
+    second: zero_ride_chaser_2_66
+  - first:
+      213: 21300134
+    second: zero_ride_chaser_2_67
+  - first:
+      213: 21300136
+    second: zero_ride_chaser_2_68
+  - first:
+      213: 21300138
+    second: zero_ride_chaser_2_69
+  - first:
+      213: 21300140
+    second: zero_ride_chaser_2_70
+  - first:
+      213: 21300142
+    second: zero_ride_chaser_2_71
+  - first:
+      213: 21300144
+    second: zero_ride_chaser_2_72
+  - first:
+      213: 21300146
+    second: zero_ride_chaser_2_73
+  - first:
+      213: 21300148
+    second: zero_ride_chaser_2_74
+  - first:
+      213: 21300150
+    second: zero_ride_chaser_2_75
+  - first:
+      213: 21300152
+    second: zero_ride_chaser_2_76
+  - first:
+      213: 21300154
+    second: zero_ride_chaser_2_77
+  - first:
+      213: 21300156
+    second: zero_ride_chaser_2_78
+  - first:
+      213: 21300158
+    second: zero_ride_chaser_2_79
+  - first:
+      213: 21300160
+    second: zero_ride_chaser_2_80
+  - first:
+      213: 21300162
+    second: zero_ride_chaser_2_81
+  - first:
+      213: 21300164
+    second: zero_ride_chaser_2_82
+  - first:
+      213: 21300166
+    second: zero_ride_chaser_2_83
+  - first:
+      213: 21300168
+    second: zero_ride_chaser_2_84
+  - first:
+      213: 21300170
+    second: zero_ride_chaser_2_85
+  - first:
+      213: 21300172
+    second: zero_ride_chaser_2_86
+  - first:
+      213: 21300174
+    second: zero_ride_chaser_2_87
+  - first:
+      213: 21300176
+    second: zero_ride_chaser_2_88
+  - first:
+      213: 21300178
+    second: zero_ride_chaser_2_89
+  - first:
+      213: 21300180
+    second: zero_ride_chaser_2_90
+  - first:
+      213: 21300182
+    second: zero_ride_chaser_2_91
+  - first:
+      213: 21300184
+    second: zero_ride_chaser_2_92
+  - first:
+      213: 21300186
+    second: zero_ride_chaser_2_93
+  - first:
+      213: 21300188
+    second: zero_ride_chaser_2_94
+  - first:
+      213: 21300190
+    second: zero_ride_chaser_2_95
+  - first:
+      213: 21300192
+    second: zero_ride_chaser_2_96
+  - first:
+      213: 21300194
+    second: zero_ride_chaser_2_97
+  - first:
+      213: 21300196
+    second: zero_ride_chaser_2_98
+  - first:
+      213: 21300198
+    second: zero_ride_chaser_2_99
+  - first:
+      213: 21300200
+    second: zero_ride_chaser_2_100
+  - first:
+      213: 21300202
+    second: zero_ride_chaser_2_101
+  - first:
+      213: 21300204
+    second: zero_ride_chaser_2_102
+  - first:
+      213: 21300206
+    second: zero_ride_chaser_2_103
+  - first:
+      213: 21300208
+    second: zero_ride_chaser_2_104
+  - first:
+      213: 21300210
+    second: zero_ride_chaser_2_105
+  - first:
+      213: 21300212
+    second: zero_ride_chaser_2_106
+  - first:
+      213: 21300214
+    second: zero_ride_chaser_2_107
+  - first:
+      213: 21300216
+    second: zero_ride_chaser_2_108
+  - first:
+      213: 21300218
+    second: zero_ride_chaser_2_109
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 494
+        width: 51
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e215f424c78a5d4a8d83f323373b3c5
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_1
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 494
+        width: 50
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eca3c35d86aa82543a1b4eec5f4ba812
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_2
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 494
+        width: 50
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 367d2886dc565e341bfc403bdec1cb0b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_3
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 494
+        width: 51
+        height: 33
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b8b14a09275a94dbb1eeaa9c2ee644
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_4
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 490
+        width: 54
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6422aa5e42dd4d9428781c2bff812b5c
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_5
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 490
+        width: 53
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26fc175a80e31be4aaa242ac4fc94213
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_6
+      rect:
+        serializedVersion: 2
+        x: 344
+        y: 490
+        width: 53
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48705ef6f556bc64d9e3440e63fc809a
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 490
+        width: 54
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e480205d2e72da84aa743798d4f2c230
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 487
+        width: 55
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 319a0a3e72ed107498991d47fb5bc6c5
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_9
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 487
+        width: 54
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a229885990a0cb4495e475368b46b92
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_10
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 487
+        width: 54
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7feb3ab7214c88a40b3b649b011ff5a0
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_11
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 487
+        width: 55
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3484d355c36d2e346bb6cc3e9a4488a0
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_12
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 478
+        width: 58
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48d58e1c62c6598469dc76da44fc9128
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_13
+      rect:
+        serializedVersion: 2
+        x: 751
+        y: 478
+        width: 57
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72cbb486102d244408907c5189c3368e
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_14
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 478
+        width: 57
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5884f8bd63d3b14699b98dd3880077a
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_15
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 478
+        width: 58
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 450804ac0fd028a499e0817a248bde6f
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_16
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 494
+        width: 40
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602ecca204ea99d4b8774485fcf522f9
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_17
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 490
+        width: 40
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efba2b6958596584aa01613bf4fa613b
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_18
+      rect:
+        serializedVersion: 2
+        x: 1054
+        y: 487
+        width: 36
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e27059df501b264c819aa0ba72ff262
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_19
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 478
+        width: 28
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81a58c120081d6c40a3c093b1eaba062
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_20
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 425
+        width: 51
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d026f0384b02d941b83856e6c48c901
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_21
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 425
+        width: 52
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feff83c95213ac24b8070b91e3bfcc3a
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_22
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 421
+        width: 55
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ab3191b37335f04eb6ec329f3d39ce3
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_23
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 421
+        width: 55
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b88312a5906b14786c5090726791de
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_24
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 418
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bcb370e43e90c3c439b4c341a00ac81b
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_25
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 418
+        width: 56
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d144b38282c2f4243be395531a65a486
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_26
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 411
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26897e6d5aae5c64ca748d70b39ccc12
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_27
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 411
+        width: 59
+        height: 56
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eedfc1558fdd8449ab9407dcf7f434c
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_28
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 324
+        width: 24
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ed23314d95d08649b8dc76294fedf7d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_29
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 334
+        width: 87
+        height: 68
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84ca45e7043bc9140a082bc305a071a1
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_30
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 323
+        width: 88
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4ee3081443c0064bba1934d727a0f9f
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_31
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 322
+        width: 90
+        height: 80
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8a51be20c750ed4eb19d1651d615fa0
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_32
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 333
+        width: 87
+        height: 69
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50f25e336331d954e9cc71535d280e5d
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_33
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 332
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18ba20216d1ea7444ae8733325fa92d1
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_34
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 323
+        width: 87
+        height: 79
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43379b28940c01f49b8c3dfcaff12e76
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_35
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 338
+        width: 86
+        height: 64
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c95aae2d2bab84458963760f9c770d7
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_36
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 332
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 012eefd8d2503a942a0debc4dc837c90
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_37
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 342
+        width: 78
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b64176f09fd1c34c99ec5f9775d8e2e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_38
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 333
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 182826a7a9623e64cbde0885fc4202c2
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_39
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 255
+        width: 103
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 647a19a63160dce42a1790c42996c6f5
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_40
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 255
+        width: 90
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5120edda159a43449a5f4a027106d03a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_41
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 269
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 332c5fb540d4b884da93700f9c8d3930
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_42
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 258
+        width: 92
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63800a58bd46caa4c94e07c2e7fed436
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_43
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 255
+        width: 103
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a8ef825dc0fa1343832af3dc3b12d2e
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_44
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 255
+        width: 104
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5bdd60511b3f67468b32486288399aa
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_45
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 269
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 148fc0a68d1d95d499cd1efaf0e6875c
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_46
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 258
+        width: 92
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1912071f87f2fd843a4747db6477d901
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_47
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 258
+        width: 87
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5bc242447db2d4ab323c7806a27ed2
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_48
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 252
+        width: 100
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e103b621d9dbea48aaf837bd6200e2d
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_49
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 258
+        width: 79
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d2f916ca7404c458bdfeb2a3441f0b
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_50
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 255
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f92fea1c79f7074786b9d8f38cd53df
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_51
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 255
+        width: 15
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a420efd62f95d341b6bf70bbe1bc4b5
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_52
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 107
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ea2dfa963d07aa489425274e033584e
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_53
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 194
+        width: 101
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: babb921783f963c44b7d9364a0b8b13c
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_54
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 193
+        width: 114
+        height: 52
+      alignment: 9
+      pivot: {x: 0.43974572, y: -0.007769658}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd65152cda153ee40a9acf774dd5a9ac
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_55
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 194
+        width: 88
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d3ca79adb2d89e4a83b5572e52f28d2
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_56
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 194
+        width: 90
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fb3c6c2241be11428ce7500fef157b9
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_57
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 219
+        width: 11
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93dc562ca1224441bccdfd28468deb9
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_58
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 194
+        width: 90
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e30936bcb130dc641b32c6bbedd3cc18
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_59
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 194
+        width: 73
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f19eaa084ff79df4b884b31a66c79878
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_60
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 203
+        width: 12
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa34902832d8e0743813937128c78847
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_61
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 206
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d23ffedaae787b45ada9c110cd8db1c
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_62
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 127
+        width: 88
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49358dab6478bfb43918c4a36f717b25
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_63
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 127
+        width: 101
+        height: 58
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f1d17977d82f934192831a048ec9e56
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_64
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 127
+        width: 102
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b8df63973a1e1e4faecda33db8ab931
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_65
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 127
+        width: 71
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66fe2cbd0cd56504d9b548d34a03dd48
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_66
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 127
+        width: 91
+        height: 55
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e0f7b0a88adc941a0b1559dec303f5
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_67
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 167
+        width: 25
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c387264cc64bd10478eaaad87e30aa90
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_68
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 127
+        width: 71
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bd367f211092d548ba01b5b35c328d7
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_69
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 127
+        width: 67
+        height: 52
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ce1ec736d92cb0478e4e4cf713534cf
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_70
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 174
+        width: 6
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b130d1558c9fa948ba26709ca297e46
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_71
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 174
+        width: 10
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d326553fea30aa243825f3feff2ec6e5
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_72
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 176
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3a7b853d44d87c40a1ad5ee6192a8a6
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_73
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 174
+        width: 12
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39d05aa905c2e6b4eb11fddd39d374ae
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_74
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 177
+        width: 14
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ad958192f4643042b1d4dca46e9c0a3
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_75
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 177
+        width: 16
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c85aa100c4b56134b93270ec89d5fc7b
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_76
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 178
+        width: 17
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f34dc48cd2e5464ca5e086f4c55cf09
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_77
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 172
+        width: 15
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2449f69882a66844c93c3aa797588fee
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_78
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 166
+        width: 39
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc244f104e3edc64eabb896a37750f19
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_79
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 167
+        width: 34
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7675605ae468474d9078783ac3c646c
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_80
+      rect:
+        serializedVersion: 2
+        x: 356
+        y: 154
+        width: 21
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 217e305e41eb69c4b94e7349789149dd
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_81
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 152
+        width: 9
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d959ee33feccc0499774095a0fe05a3
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_82
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 155
+        width: 27
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a13c5c0c8a488d4caa31b191b24856d
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_83
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 152
+        width: 6
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75e2abec1b94c484fa5bcc7f078d670d
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_84
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 73
+        width: 73
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f2951e18134a844c95fbf60991c8936
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_85
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 73
+        width: 44
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f2deda13dc6f2245926d48eb8b72c95
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_86
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 73
+        width: 42
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51f658cb15552dc4cb1b4c3d14d46d7d
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_87
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 73
+        width: 47
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2842850149d86746b6932d3f6a9bc3e
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_88
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 73
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6021c7a11e16f5e47924c042b97b4279
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_89
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 73
+        width: 38
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78789b0a561f21f4ab09407e8f628d2d
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_90
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 73
+        width: 37
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6afca51c4f46e343ab5b66d08cad406
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_91
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 56
+        width: 32
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef1968ab86498124f8a24a81430f85c4
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_92
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 52
+        width: 38
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c1697d181863ed45b566eae727c2d2f
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_93
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 51
+        width: 41
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a459dad9e7031e438a8030ef1aad2ec
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_94
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 14
+        width: 73
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 183955dda9dc54042a62ce0a6b9b6db5
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_95
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 14
+        width: 44
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5358286c8882c914ba05bf753cb9c6b5
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_96
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 12
+        width: 42
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a998ec9eabc23cf418a39e68c8e4d644
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_97
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 14
+        width: 47
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45ac9520e6a0ce7469d4749e7cf09ef0
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_98
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1
+        width: 13
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32555197712a23c4d90941156b89ce46
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_99
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 12
+        width: 38
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8383f17c2c2664e944debfbbb970bc
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_100
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 12
+        width: 38
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b48177cca40f25438043ed7d4066da4
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_101
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 13
+        width: 37
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1605073bfd86a5c41a8fffffb036176f
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_102
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 9
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860f811a6bb980e48b37bcdb2fa05799
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_103
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 6
+        width: 28
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dc820200bf885f4ba35c2847b48d611
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_104
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 3
+        width: 35
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 024b25bfb43123945a8adb0045e9a63d
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_105
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3
+        width: 35
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd7a04b644cbb3444b90527538f2eccb
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_106
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 4
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 467d886252f59124b8e1b5e679f10dc0
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_107
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 16
+        width: 22
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d43fb56c1bd02e64eba6bdd96d853eb9
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_108
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 14
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25aae57c89a30a54c943ef451f65cdaf
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zero_ride_chaser_2_109
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 5
+        width: 30
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36fdaea3a80978d4b962c5186886f4c2
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 69cdfd45f30e7a4488eea26c7f9a7586
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

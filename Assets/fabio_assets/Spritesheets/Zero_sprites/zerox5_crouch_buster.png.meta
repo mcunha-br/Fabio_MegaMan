@@ -1,0 +1,1544 @@
+fileFormatVersion: 2
+guid: b3c25ec4a9b4a7046a5d0af6dcf0babb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: zerox5_crouch_buster_0
+  - first:
+      213: 21300002
+    second: zerox5_crouch_buster_1
+  - first:
+      213: 21300004
+    second: zerox5_crouch_buster_2
+  - first:
+      213: 21300006
+    second: zerox5_crouch_buster_3
+  - first:
+      213: 21300008
+    second: zerox5_crouch_buster_4
+  - first:
+      213: 21300010
+    second: zerox5_crouch_buster_5
+  - first:
+      213: 21300012
+    second: zerox5_crouch_buster_6
+  - first:
+      213: 21300014
+    second: zerox5_crouch_buster_7
+  - first:
+      213: 21300016
+    second: zerox5_crouch_buster_8
+  - first:
+      213: 21300018
+    second: zerox5_crouch_buster_9
+  - first:
+      213: 21300020
+    second: zerox5_crouch_buster_10
+  - first:
+      213: 21300022
+    second: zerox5_crouch_buster_11
+  - first:
+      213: 21300024
+    second: zerox5_crouch_buster_12
+  - first:
+      213: 21300026
+    second: zerox5_crouch_buster_13
+  - first:
+      213: 21300028
+    second: zerox5_crouch_buster_14
+  - first:
+      213: 21300030
+    second: zerox5_crouch_buster_15
+  - first:
+      213: 21300032
+    second: zerox5_crouch_buster_16
+  - first:
+      213: 21300034
+    second: zerox5_crouch_buster_17
+  - first:
+      213: 21300036
+    second: zerox5_crouch_buster_18
+  - first:
+      213: 21300038
+    second: zerox5_crouch_buster_19
+  - first:
+      213: 21300040
+    second: zerox5_crouch_buster_20
+  - first:
+      213: 21300042
+    second: zerox5_crouch_buster_21
+  - first:
+      213: 21300044
+    second: zerox5_crouch_buster_22
+  - first:
+      213: 21300046
+    second: zerox5_crouch_buster_23
+  - first:
+      213: 21300048
+    second: zerox5_crouch_buster_24
+  - first:
+      213: 21300050
+    second: zerox5_crouch_buster_25
+  - first:
+      213: 21300052
+    second: zerox5_crouch_buster_26
+  - first:
+      213: 21300054
+    second: zerox5_crouch_buster_27
+  - first:
+      213: 21300056
+    second: zerox5_crouch_buster_28
+  - first:
+      213: 21300058
+    second: zerox5_crouch_buster_29
+  - first:
+      213: 21300060
+    second: zerox5_crouch_buster_30
+  - first:
+      213: 21300062
+    second: zerox5_crouch_buster_31
+  - first:
+      213: 21300064
+    second: zerox5_crouch_buster_32
+  - first:
+      213: 21300066
+    second: zerox5_crouch_buster_33
+  - first:
+      213: 21300068
+    second: zerox5_crouch_buster_34
+  - first:
+      213: 21300070
+    second: zerox5_crouch_buster_35
+  - first:
+      213: 21300072
+    second: zerox5_crouch_buster_36
+  - first:
+      213: 21300074
+    second: zerox5_crouch_buster_37
+  - first:
+      213: 21300076
+    second: zerox5_crouch_buster_38
+  - first:
+      213: 21300078
+    second: zerox5_crouch_buster_39
+  - first:
+      213: 21300080
+    second: zerox5_crouch_buster_40
+  - first:
+      213: 21300082
+    second: zerox5_crouch_buster_41
+  - first:
+      213: 21300084
+    second: zerox5_crouch_buster_42
+  - first:
+      213: 21300086
+    second: zerox5_crouch_buster_43
+  - first:
+      213: 21300088
+    second: zerox5_crouch_buster_44
+  - first:
+      213: 21300090
+    second: zerox5_crouch_buster_45
+  - first:
+      213: 21300092
+    second: zerox5_crouch_buster_46
+  - first:
+      213: 21300094
+    second: zerox5_crouch_buster_47
+  - first:
+      213: 21300096
+    second: zerox5_crouch_buster_48
+  - first:
+      213: 21300098
+    second: zerox5_crouch_buster_49
+  - first:
+      213: 21300100
+    second: zerox5_crouch_buster_50
+  - first:
+      213: 21300102
+    second: zerox5_crouch_buster_51
+  - first:
+      213: 21300104
+    second: zerox5_crouch_buster_52
+  - first:
+      213: 21300106
+    second: zerox5_crouch_buster_54
+  - first:
+      213: 21300108
+    second: zerox5_crouch_buster_55
+  - first:
+      213: 21300110
+    second: zerox5_crouch_buster_56
+  - first:
+      213: 21300112
+    second: zerox5_crouch_buster_58
+  - first:
+      213: 21300114
+    second: zerox5_crouch_buster_59
+  - first:
+      213: 21300116
+    second: zerox5_crouch_buster_53
+  - first:
+      213: 21300118
+    second: zerox5_crouch_buster_57
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 152
+        width: 47
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b25e3973ac62a544884c3fcd1a0509ca
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_1
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 152
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78af698055032ff4fa8ff99acf5bfedb
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_2
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 152
+        width: 49
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9823cb59f5ba9be41b688826fb04f12a
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_3
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 152
+        width: 59
+        height: 36
+      alignment: 9
+      pivot: {x: 0.45, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a919f91e953e32640b2a61d2bdc37f52
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_4
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 152
+        width: 55
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8912e854c6a05a4fb1a3b5d072dcd21
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_5
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 152
+        width: 89
+        height: 34
+      alignment: 9
+      pivot: {x: 0.33, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50831f7304d0d034f9145252662c4fd7
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_6
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 152
+        width: 93
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 018eddb4356542c4abddecd40c71bf20
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_7
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 152
+        width: 92
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4fa9b3f3034a6c44386c13e8651b965b
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_8
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 152
+        width: 82
+        height: 35
+      alignment: 9
+      pivot: {x: 0.3, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258879d6f7039fd408a0c1af5ffd01c6
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_9
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 152
+        width: 66
+        height: 35
+      alignment: 9
+      pivot: {x: 0.38, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7012d441e8caa241b8cf48b0d463fbd
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_10
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 152
+        width: 59
+        height: 35
+      alignment: 9
+      pivot: {x: 0.43, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28b80af3855473748aa61d298fcd2f1a
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_11
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 152
+        width: 57
+        height: 35
+      alignment: 9
+      pivot: {x: 0.44, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49a3952adfda6c042b18354577ed45f7
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_12
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 148
+        width: 48
+        height: 39
+      alignment: 9
+      pivot: {x: 0.52, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 579f71cdce8813647abf64bc60dec463
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_13
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 148
+        width: 45
+        height: 39
+      alignment: 9
+      pivot: {x: 0.54, y: 0.1}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d76892c0f19c15346a1c02416091b8ea
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_14
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 92
+        width: 55
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 911ff1e13cb12ec43a741a91575b3238
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_15
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 92
+        width: 60
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37b5f4b11be190246858d7766397fb46
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_16
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 92
+        width: 55
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3a311dd13a18914bb6b493433acc072
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_17
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 92
+        width: 45
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a71853078dea824a82cad3058fdbd9e
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 92
+        width: 46
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40f338c4e0b92734f93634d0f164eab7
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_19
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 92
+        width: 50
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba9fa5f3ff063b441a0e1ae6bff45a34
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_20
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 92
+        width: 52
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9097fd1a545a3354983ac23176515404
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 92
+        width: 48
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfdfa7140c66b3a4c95f250e210097e6
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_22
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 88
+        width: 45
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914beb2528f210b41b89aadd1b7c2547
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_23
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 115
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff0e25d8f854224b85d7ddc642fdedb
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_24
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 100
+        width: 55
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f67a6125a55072048ae3fda4bf6197f3
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_25
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 101
+        width: 52
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f645c7d2ba1324943bf2c370b379812a
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_26
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 118
+        width: 42
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cccaf102f59db549b43cf00ca07102f
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_27
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 117
+        width: 25
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 821f5f264056ccf4d9fb6e3de94aba5f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_28
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 115
+        width: 18
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc5944e386029a24c9d1f5d8d48b2454
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_29
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 115
+        width: 16
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03103b7fc685d3441ba398e2b78f4341
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_30
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 118
+        width: 7
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2a858594e830cc4b812b26fe176b030
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_31
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 95
+        width: 61
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587ae9e97c4d86e478e20e7137fce73d
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_32
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 7
+        width: 60
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05b2eb88c112a4e47bf4d4c00bf31c00
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_33
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 7
+        width: 62
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99c24d7c583c510458ac05f5b64715da
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_34
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 7
+        width: 55
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c87812335565d4c4980000bd16bec96a
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_35
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 7
+        width: 67
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40204eed2d2ead948818823a3f1015b1
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_36
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7
+        width: 77
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb65eae0225a65a4b80aef6f26884421
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_37
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 7
+        width: 45
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d653ee5eef70564da64a5e8054d5568
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_38
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 7
+        width: 45
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9d6fb0c831fbe844bd6bcb336fd9be3
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_39
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 7
+        width: 41
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cff046ff313b85448a48487fffa1220
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_40
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 7
+        width: 34
+        height: 51
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4278ca7be8a7f984fa5d46b982364f64
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_41
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 7
+        width: 40
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 392febe6e869b244c9e823354677be93
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_42
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 7
+        width: 45
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c36dcc33b0d9d144181a6372ab0f2d04
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_43
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 27
+        width: 23
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937bb8584eaa235499d7502561ac0e56
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_44
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 31
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50602d2027bc8824ca8f42919117ec3b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_45
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 31
+        width: 15
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c06e975515b5084382945b18d3f43b0
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_46
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 31
+        width: 20
+        height: 26
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 235a47a102ae5b249ba2ad86156e268e
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_47
+      rect:
+        serializedVersion: 2
+        x: 857
+        y: 30
+        width: 24
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aeae62e3a5ce5d4f842be01577ea911
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_48
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 30
+        width: 36
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d2878b2c110b149a120382b63339ff
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_49
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 33
+        width: 48
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17e742895a4534429e1f8ef0ddbe91a
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_50
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 34
+        width: 41
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83880465c8d23f74ebca8122b33af032
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_51
+      rect:
+        serializedVersion: 2
+        x: 1020
+        y: 33
+        width: 44
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 773d52e73c3bf5a4cac2dc9f65126b1f
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_52
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 33
+        width: 46
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cd39791c3331864a99661d4fd9998b0
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_54
+      rect:
+        serializedVersion: 2
+        x: 1117
+        y: 35
+        width: 36
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0880fabb9322b8246bebd91b0ab677a9
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_55
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 39
+        width: 8
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49376c6700589b142861a608d8b10285
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_56
+      rect:
+        serializedVersion: 2
+        x: 1156
+        y: 36
+        width: 32
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94563097b30746349807364330d0080d
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_58
+      rect:
+        serializedVersion: 2
+        x: 1191
+        y: 35
+        width: 17
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e030859573bfff146b244f7495e61620
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_59
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 20
+        width: 28
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd7fbb4229ce61f40a215dd7724e1b03
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_53
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 28
+        width: 27
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69ca7d7292ab1194786385fdd5c592d9
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: zerox5_crouch_buster_57
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 27
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21583e98df037d74295bed16c5faaf74
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b408fe9a2c18e004c8496b5dd8786ef7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

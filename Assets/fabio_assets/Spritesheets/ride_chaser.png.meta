@@ -1,0 +1,3032 @@
+fileFormatVersion: 2
+guid: 1972b3d959746fe4c9867a1660c68152
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: ride_chaser_0
+  - first:
+      213: 21300002
+    second: ride_chaser_1
+  - first:
+      213: 21300004
+    second: ride_chaser_2
+  - first:
+      213: 21300006
+    second: ride_chaser_3
+  - first:
+      213: 21300008
+    second: ride_chaser_4
+  - first:
+      213: 21300010
+    second: ride_chaser_5
+  - first:
+      213: 21300012
+    second: ride_chaser_6
+  - first:
+      213: 21300014
+    second: ride_chaser_7
+  - first:
+      213: 21300016
+    second: ride_chaser_8
+  - first:
+      213: 21300018
+    second: ride_chaser_9
+  - first:
+      213: 21300020
+    second: ride_chaser_10
+  - first:
+      213: 21300022
+    second: ride_chaser_11
+  - first:
+      213: 21300024
+    second: ride_chaser_12
+  - first:
+      213: 21300026
+    second: ride_chaser_13
+  - first:
+      213: 21300028
+    second: ride_chaser_14
+  - first:
+      213: 21300030
+    second: ride_chaser_15
+  - first:
+      213: 21300032
+    second: ride_chaser_16
+  - first:
+      213: 21300034
+    second: ride_chaser_17
+  - first:
+      213: 21300036
+    second: ride_chaser_18
+  - first:
+      213: 21300038
+    second: ride_chaser_19
+  - first:
+      213: 21300040
+    second: ride_chaser_20
+  - first:
+      213: 21300042
+    second: ride_chaser_21
+  - first:
+      213: 21300044
+    second: ride_chaser_22
+  - first:
+      213: 21300046
+    second: ride_chaser_23
+  - first:
+      213: 21300048
+    second: ride_chaser_24
+  - first:
+      213: 21300050
+    second: ride_chaser_25
+  - first:
+      213: 21300052
+    second: ride_chaser_26
+  - first:
+      213: 21300054
+    second: ride_chaser_27
+  - first:
+      213: 21300056
+    second: ride_chaser_28
+  - first:
+      213: 21300058
+    second: ride_chaser_29
+  - first:
+      213: 21300060
+    second: ride_chaser_30
+  - first:
+      213: 21300062
+    second: ride_chaser_31
+  - first:
+      213: 21300064
+    second: ride_chaser_32
+  - first:
+      213: 21300066
+    second: ride_chaser_33
+  - first:
+      213: 21300068
+    second: ride_chaser_34
+  - first:
+      213: 21300070
+    second: ride_chaser_35
+  - first:
+      213: 21300072
+    second: ride_chaser_36
+  - first:
+      213: 21300074
+    second: ride_chaser_37
+  - first:
+      213: 21300076
+    second: ride_chaser_38
+  - first:
+      213: 21300078
+    second: ride_chaser_39
+  - first:
+      213: 21300080
+    second: ride_chaser_40
+  - first:
+      213: 21300082
+    second: ride_chaser_41
+  - first:
+      213: 21300084
+    second: ride_chaser_42
+  - first:
+      213: 21300086
+    second: ride_chaser_43
+  - first:
+      213: 21300088
+    second: ride_chaser_44
+  - first:
+      213: 21300090
+    second: ride_chaser_45
+  - first:
+      213: 21300092
+    second: ride_chaser_46
+  - first:
+      213: 21300094
+    second: ride_chaser_47
+  - first:
+      213: 21300096
+    second: ride_chaser_48
+  - first:
+      213: 21300098
+    second: ride_chaser_49
+  - first:
+      213: 21300100
+    second: ride_chaser_50
+  - first:
+      213: 21300102
+    second: ride_chaser_51
+  - first:
+      213: 21300104
+    second: ride_chaser_52
+  - first:
+      213: 21300106
+    second: ride_chaser_53
+  - first:
+      213: 21300108
+    second: ride_chaser_54
+  - first:
+      213: 21300110
+    second: ride_chaser_55
+  - first:
+      213: 21300112
+    second: ride_chaser_56
+  - first:
+      213: 21300114
+    second: ride_chaser_57
+  - first:
+      213: 21300116
+    second: ride_chaser_58
+  - first:
+      213: 21300118
+    second: ride_chaser_59
+  - first:
+      213: 21300120
+    second: ride_chaser_60
+  - first:
+      213: 21300122
+    second: ride_chaser_61
+  - first:
+      213: 21300124
+    second: ride_chaser_62
+  - first:
+      213: 21300126
+    second: ride_chaser_63
+  - first:
+      213: 21300128
+    second: ride_chaser_64
+  - first:
+      213: 21300130
+    second: ride_chaser_65
+  - first:
+      213: 21300132
+    second: ride_chaser_66
+  - first:
+      213: 21300134
+    second: ride_chaser_67
+  - first:
+      213: 21300136
+    second: ride_chaser_68
+  - first:
+      213: 21300138
+    second: ride_chaser_69
+  - first:
+      213: 21300140
+    second: ride_chaser_70
+  - first:
+      213: 21300142
+    second: ride_chaser_71
+  - first:
+      213: 21300144
+    second: ride_chaser_72
+  - first:
+      213: 21300146
+    second: ride_chaser_73
+  - first:
+      213: 21300148
+    second: ride_chaser_74
+  - first:
+      213: 21300150
+    second: ride_chaser_75
+  - first:
+      213: 21300152
+    second: ride_chaser_76
+  - first:
+      213: 21300154
+    second: ride_chaser_77
+  - first:
+      213: 21300156
+    second: ride_chaser_78
+  - first:
+      213: 21300158
+    second: ride_chaser_79
+  - first:
+      213: 21300160
+    second: ride_chaser_80
+  - first:
+      213: 21300162
+    second: ride_chaser_81
+  - first:
+      213: 21300164
+    second: ride_chaser_82
+  - first:
+      213: 21300166
+    second: ride_chaser_83
+  - first:
+      213: 21300168
+    second: ride_chaser_84
+  - first:
+      213: 21300170
+    second: ride_chaser_85
+  - first:
+      213: 21300172
+    second: ride_chaser_86
+  - first:
+      213: 21300174
+    second: ride_chaser_87
+  - first:
+      213: 21300176
+    second: ride_chaser_88
+  - first:
+      213: 21300178
+    second: ride_chaser_89
+  - first:
+      213: 21300180
+    second: ride_chaser_90
+  - first:
+      213: 21300182
+    second: ride_chaser_91
+  - first:
+      213: 21300184
+    second: ride_chaser_92
+  - first:
+      213: 21300186
+    second: ride_chaser_93
+  - first:
+      213: 21300188
+    second: ride_chaser_94
+  - first:
+      213: 21300190
+    second: ride_chaser_95
+  - first:
+      213: 21300192
+    second: ride_chaser_96
+  - first:
+      213: 21300194
+    second: ride_chaser_97
+  - first:
+      213: 21300196
+    second: ride_chaser_98
+  - first:
+      213: 21300198
+    second: ride_chaser_99
+  - first:
+      213: 21300200
+    second: ride_chaser_100
+  - first:
+      213: 21300202
+    second: ride_chaser_101
+  - first:
+      213: 21300204
+    second: ride_chaser_102
+  - first:
+      213: 21300206
+    second: ride_chaser_103
+  - first:
+      213: 21300208
+    second: ride_chaser_104
+  - first:
+      213: 21300210
+    second: ride_chaser_105
+  - first:
+      213: 21300212
+    second: ride_chaser_106
+  - first:
+      213: 21300214
+    second: ride_chaser_107
+  - first:
+      213: 21300216
+    second: ride_chaser_108
+  - first:
+      213: 21300218
+    second: ride_chaser_109
+  - first:
+      213: 21300220
+    second: ride_chaser_110
+  - first:
+      213: 21300222
+    second: ride_chaser_111
+  - first:
+      213: 21300224
+    second: ride_chaser_112
+  - first:
+      213: 21300226
+    second: ride_chaser_113
+  - first:
+      213: 21300228
+    second: ride_chaser_114
+  - first:
+      213: 21300230
+    second: ride_chaser_115
+  - first:
+      213: 21300232
+    second: ride_chaser_116
+  - first:
+      213: 21300234
+    second: ride_chaser_117
+  - first:
+      213: 21300236
+    second: ride_chaser_118
+  - first:
+      213: 21300238
+    second: ride_chaser_119
+  - first:
+      213: 21300240
+    second: ride_chaser_120
+  - first:
+      213: 21300242
+    second: ride_chaser_121
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ride_chaser_0
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 364
+        width: 34
+        height: 42
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9036900d5362c9445bb0ec1f1ee9329f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_1
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 360
+        width: 39
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddd6200290bd17e4a933f38dea6a4c3d
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_2
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 359
+        width: 44
+        height: 49
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 929bcdd70f938554f8588d3102862402
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_3
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 320
+        width: 74
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5991869c7ecf0c7449bd3a6c363146b8
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_4
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 320
+        width: 45
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 860845b8f0082e64a9da044eedc6db1f
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_5
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 317
+        width: 25
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4a71a5e4f737294f8bef26d80036880
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_6
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 314
+        width: 32
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caa5af9792199d84991f3254ebb9a306
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 311
+        width: 38
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31ffb7baa213b0a4f8ed0a9591be564d
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_8
+      rect:
+        serializedVersion: 2
+        x: 120
+        y: 311
+        width: 36
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7b08bade35220448966ce98e5d6a707
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_9
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 312
+        width: 23
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 259c9f6da4c2a114689da8f6bbd5c8fa
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_10
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 333
+        width: 7
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73bc3c9afb765b4fa74d7d29dbfe30b
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_11
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 324
+        width: 21
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237c016858062124086db37f51255727
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_12
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 329
+        width: 22
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68c62962db7d9f94fa8a5b257c432f25
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 320
+        width: 43
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180ff6d205002244eb3d10c355beaaa2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_14
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 320
+        width: 48
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10e9fc7436e01c24a8a1c944c1d15242
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_15
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 320
+        width: 39
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1041c8d205bba74448fff6576b1e523e
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_16
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 320
+        width: 42
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 729315424bb99354e973415500699789
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_17
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 320
+        width: 39
+        height: 43
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68f49f1e1d98ccf4a969e914696f85de
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_18
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 322
+        width: 9
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1aa90b51152d2744fb0ca81652d7dfaa
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_19
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 313
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dcc8464892c2114ab020fc50f1c9c61
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_20
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 320
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ceea373ff180c694abe12e3595d61d9b
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_21
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 274
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ace7b307e456352499da1db8779b5b04
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_22
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 268
+        width: 29
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6efe1a1f30213d548bf811c2749880ef
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_23
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 268
+        width: 39
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9336671f17ebd2b478bc906e3c79ee36
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_24
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 272
+        width: 41
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b403ed078841e9945aa00611fc726061
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_25
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 272
+        width: 16
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7fd4f94cea590444a9d62d15312dce8f
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_26
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 285
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 070aae03aae0a084fb627319e9b71f3c
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_27
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 281
+        width: 5
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 415244901408193459ef459042c306cb
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 288
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03682cf21948dc64687e2cebfed9d689
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_29
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 261
+        width: 80
+        height: 41
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89697648010605a4e870c795c7b48d80
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_30
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 263
+        width: 76
+        height: 46
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c94f0004a746ab4d95039dac003e1ab
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 267
+        width: 77
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bbc0c4a63185284b929fb85ad14b87c
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_32
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 264
+        width: 76
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4fa1712a63acd1438682015ccaf7b23
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_33
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 278
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b8596cf6d30b0b4ead6ac634a6452c2
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_34
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 273
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3602051f7303c14a93585be780f3523
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_35
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 279
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1510b7365e2e75a49bc6670ce3492b31
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_36
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 231
+        width: 22
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa01055e9ceee5a4f890fdeba988543e
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 227
+        width: 27
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0970518e6fa133040afce07fb31f4767
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_38
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 226
+        width: 40
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00dea5be5212188409e78090f42f9d23
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_39
+      rect:
+        serializedVersion: 2
+        x: 114
+        y: 230
+        width: 44
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61a8a42ac3a52fa479a98ea666c0dc22
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_40
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 231
+        width: 49
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a94a6087743f563449e8c18f4774779a
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_41
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 251
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e1592decc3e0624bb32ac00a09a3809
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_42
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 214
+        width: 76
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20382577e6527bb4cbe614b394de11bb
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_43
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 242
+        width: 20
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4a4fc7f59eaee498524219f60b7f94
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_44
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 235
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 519952f338b27244a8699fa28a5cf778
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_45
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 197
+        width: 74
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eff73070a5bc8f94e99a787f4b0af805
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_46
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 188
+        width: 23
+        height: 28
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43033617897c7604e8afa686e3957d43
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_47
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 184
+        width: 29
+        height: 36
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79d31832297b0f64c8074bc4fd4a4a77
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_48
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 183
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 671269c3cee4a0740b15d1bff07e436e
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_49
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 187
+        width: 41
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec6dbd86b915b644aa6cce25173ed05a
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_50
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 188
+        width: 16
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a978454af56127a4caeb3d3dc9df58ce
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_51
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 205
+        width: 10
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aabe6a80892dc4d44adb3c09923403be
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_52
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 210
+        width: 5
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f6e7a810ea37ac458892fdb72ccbfd5
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_53
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 206
+        width: 6
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec50af82fbe4c974f9e159833613b0c6
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_54
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 204
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76994b1a51327c04e9565443edef77a2
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_55
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 198
+        width: 40
+        height: 32
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5cdf9c27b1e8c140982f155875a0b75
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_56
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 199
+        width: 35
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6b55e3235c20f04dad8ffa42b2e596a
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_57
+      rect:
+        serializedVersion: 2
+        x: 175
+        y: 188
+        width: 28
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62f7950c0d421645a45a5b30b970f73
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_58
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 189
+        width: 5
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca2579081e48f7e44a0873a465137188
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_59
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 188
+        width: 22
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed1a370629de594a813ee67d260f264
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_60
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 162
+        width: 75
+        height: 40
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0172ef661b3821c4cb23779990eb1c29
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_61
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 164
+        width: 23
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd5ab82b71cbced40ba2bda9f228546c
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_62
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 165
+        width: 10
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bebc703c78dadb47a05941269662ff9
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_63
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 168
+        width: 18
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ebf4a66ae5e024429b5a6076dc23e32
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_64
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 167
+        width: 11
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43c360083f97c6941bdd76813019c604
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_65
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 167
+        width: 8
+        height: 7
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 800c8a0400d0c5d48872e816903a3f20
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_66
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 160
+        width: 17
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34a37c2cd31deab4291bec6d33849ee6
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_67
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 166
+        width: 11
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882f9e9e71113cb448daea824f99ee14
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_68
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 168
+        width: 19
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 742fb0f00bceadc4a9fc6fc158674405
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_69
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 167
+        width: 10
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e0a9c8116e50648ac0db581805bf77
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_70
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 160
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e98dedd5de247742a28cfe57583834a
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_71
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 130
+        width: 68
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54af5f3b3496c3040988cb7641d3f7fe
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_72
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 157
+        width: 13
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1accd2a990d4b45b048d22a8926909
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_73
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 145
+        width: 28
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c16058555bd96ab4d90216d8c92411ce
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_74
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 148
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c678003d6a9a5624dbfb2fe337089ef8
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_75
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 144
+        width: 12
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5881b6275b89c49975f08e272e19c3
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_76
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 152
+        width: 11
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31d9b61b227d2ad498e87548bd36af1b
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_77
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 151
+        width: 9
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75dd5bcd8beb1f245ab7c97499a0e859
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_78
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 145
+        width: 14
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b60309e243f30db4693c44a2cf3091fd
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_79
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 144
+        width: 7
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d436952c668af7640946d3a4531b2376
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_80
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 133
+        width: 7
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 13c8c99bc4ad57448943af3b542030b2
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_81
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 133
+        width: 27
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6de8f4f159fd2dd41ad4675ec0bcec1b
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_82
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 133
+        width: 13
+        height: 14
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1a15532eb9855b4ab16d73b06ed88e9
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_83
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 136
+        width: 15
+        height: 10
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a7affbb97d1d3744b6091cce4d3ae08
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_84
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 136
+        width: 17
+        height: 11
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f25f8db4fc356e4fb100e501fedc81b
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_85
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 137
+        width: 17
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d775350360e52fc409946171db5e8fac
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_86
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 100
+        width: 72
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65554349ac5571540b64d47021e68f80
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 112
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9904e23e2fe15645b1d0d2889aa854d
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_88
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 111
+        width: 22
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e81194a27d2316d4aabff16ed4aee1e9
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_89
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 112
+        width: 20
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c9db02e29687a0459b3ce998b7d49da
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_90
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 112
+        width: 17
+        height: 15
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12c85312e2b24b24c9f80925d0995d03
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_91
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 112
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9fb9571f2de3d8e44b35fe20536b6af7
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_92
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 109
+        width: 25
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17f43e26ce201534bbdd88ab4b3d9baf
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_93
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 110
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf5c83e021f1824fbed2a0c9b424839
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_94
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 112
+        width: 22
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67e3952f81bc9974085318fe8b3f3c3c
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_95
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 80
+        width: 25
+        height: 22
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ae6906d4373db4fb0d0af4afc22666
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_96
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 80
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ada43400504064bacbb41ef5f8a5b1
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_97
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 81
+        width: 14
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e378b246d210214f9d880878b3eecaf
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_98
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 80
+        width: 9
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ffe6914fd266343b4111226ee9e076
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_99
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 83
+        width: 29
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec23f02615232274fa1beb165052dc43
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_100
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 83
+        width: 29
+        height: 17
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb7ab084ecc03284284e8b978c665a50
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_101
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 87
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7daa84619397e88419fc3e05cb274675
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_102
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 82
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f37a069cf3123bc45bd5f33a14e684b7
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_103
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 63
+        width: 74
+        height: 44
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15ebaec033ef94e4b93670ebb87ba5b6
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_104
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 49
+        width: 23
+        height: 20
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 902f5a93ca55f8b45a1bed9023db9101
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_105
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 50
+        width: 19
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03784919b645a424c89d656c97df2bc0
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 48
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ceb3f1d0a7fe97459e51b2d264f98ef
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_107
+      rect:
+        serializedVersion: 2
+        x: 93
+        y: 47
+        width: 8
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bfd31dafffa7db4b9c0e29ff66f08b8
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_108
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 52
+        width: 29
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ddf79c0e1ddded4face868854dc7f0b
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_109
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 51
+        width: 30
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aab6900347e00c4ea4a86ad1b8f91e1
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_110
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 58
+        width: 4
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d844477ed98f0a418c9c3bdd8400a16
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_111
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 51
+        width: 24
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76aa2e15eebbf294eb28e36fbaa22fe7
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_112
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 51
+        width: 61
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cd47e270186b6b49a911d20ff98e381
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_113
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 20
+        width: 23
+        height: 23
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 661d65066d4e8c840b99e6b5552b5c85
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_114
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 20
+        width: 19
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 539a71f10b7f2454296c0892af91e54c
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_115
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 19
+        width: 14
+        height: 25
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 888deea23db71ff49b7d76232e42cf07
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_116
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 21
+        width: 9
+        height: 21
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faa2964a4b48db84c83288eae63bfc4f
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_117
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 40
+        width: 4
+        height: 5
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ada4c31a06b159d4880a72413d04070b
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 24
+        width: 29
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0268ee51a429d96478d902a720622083
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_119
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 24
+        width: 29
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfc569f393786c54f9ed2f3effb1ce36
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_120
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 24
+        width: 33
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1db845c7f1c7b34aa494f79e3c4fb30
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ride_chaser_121
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 674
+        height: 12
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97229a14ffc8d9419af71f20caaf6c9
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: b1d6ab57be740e842acc18e66cac047c
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

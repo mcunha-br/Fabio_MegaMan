@@ -1,0 +1,1472 @@
+fileFormatVersion: 2
+guid: 696fb73bc5a456d44a6b038b88ae67c4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpikeyX4_0
+  - first:
+      213: 21300002
+    second: SpikeyX4_1
+  - first:
+      213: 21300004
+    second: SpikeyX4_2
+  - first:
+      213: 21300006
+    second: SpikeyX4_3
+  - first:
+      213: 21300008
+    second: SpikeyX4_4
+  - first:
+      213: 21300010
+    second: SpikeyX4_5
+  - first:
+      213: 21300012
+    second: SpikeyX4_6
+  - first:
+      213: 21300014
+    second: SpikeyX4_7
+  - first:
+      213: 21300016
+    second: SpikeyX4_8
+  - first:
+      213: 21300018
+    second: SpikeyX4_9
+  - first:
+      213: 21300020
+    second: SpikeyX4_10
+  - first:
+      213: 21300022
+    second: SpikeyX4_11
+  - first:
+      213: 21300024
+    second: SpikeyX4_12
+  - first:
+      213: 21300026
+    second: SpikeyX4_13
+  - first:
+      213: 21300028
+    second: SpikeyX4_14
+  - first:
+      213: 21300030
+    second: SpikeyX4_15
+  - first:
+      213: 21300032
+    second: SpikeyX4_16
+  - first:
+      213: 21300034
+    second: SpikeyX4_17
+  - first:
+      213: 21300036
+    second: SpikeyX4_18
+  - first:
+      213: 21300038
+    second: SpikeyX4_19
+  - first:
+      213: 21300040
+    second: SpikeyX4_20
+  - first:
+      213: 21300042
+    second: SpikeyX4_21
+  - first:
+      213: 21300044
+    second: SpikeyX4_22
+  - first:
+      213: 21300046
+    second: SpikeyX4_23
+  - first:
+      213: 21300048
+    second: SpikeyX4_24
+  - first:
+      213: 21300050
+    second: SpikeyX4_25
+  - first:
+      213: 21300052
+    second: SpikeyX4_26
+  - first:
+      213: 21300054
+    second: SpikeyX4_27
+  - first:
+      213: 21300056
+    second: SpikeyX4_28
+  - first:
+      213: 21300058
+    second: SpikeyX4_29
+  - first:
+      213: 21300060
+    second: SpikeyX4_30
+  - first:
+      213: 21300062
+    second: SpikeyX4_31
+  - first:
+      213: 21300064
+    second: SpikeyX4_32
+  - first:
+      213: 21300066
+    second: SpikeyX4_33
+  - first:
+      213: 21300068
+    second: SpikeyX4_34
+  - first:
+      213: 21300070
+    second: SpikeyX4_35
+  - first:
+      213: 21300072
+    second: SpikeyX4_36
+  - first:
+      213: 21300074
+    second: SpikeyX4_37
+  - first:
+      213: 21300076
+    second: SpikeyX4_38
+  - first:
+      213: 21300078
+    second: SpikeyX4_39
+  - first:
+      213: 21300080
+    second: SpikeyX4_40
+  - first:
+      213: 21300082
+    second: SpikeyX4_41
+  - first:
+      213: 21300084
+    second: SpikeyX4_42
+  - first:
+      213: 21300086
+    second: SpikeyX4_43
+  - first:
+      213: 21300088
+    second: SpikeyX4_44
+  - first:
+      213: 21300090
+    second: SpikeyX4_45
+  - first:
+      213: 21300092
+    second: SpikeyX4_46
+  - first:
+      213: 21300094
+    second: SpikeyX4_47
+  - first:
+      213: 21300096
+    second: SpikeyX4_48
+  - first:
+      213: 21300098
+    second: SpikeyX4_49
+  - first:
+      213: 21300100
+    second: SpikeyX4_50
+  - first:
+      213: 21300102
+    second: SpikeyX4_51
+  - first:
+      213: 21300104
+    second: SpikeyX4_52
+  - first:
+      213: 21300106
+    second: SpikeyX4_53
+  - first:
+      213: 21300108
+    second: SpikeyX4_54
+  - first:
+      213: 21300110
+    second: SpikeyX4_55
+  - first:
+      213: 21300112
+    second: SpikeyX4_56
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpikeyX4_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 180
+        width: 48
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3f4616140ab3004cb620cca7064fe77
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_1
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 181
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f085f2ba6ab80144b2e636cc0f0a994
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_2
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 180
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e1bcb85bbc4b6f4db674edfb7c2db4b
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 180
+        width: 47
+        height: 47
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff07648309a62c41a5ce2e051c10771
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 181
+        width: 46
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dffbe45d6b6c0247bb02719e9c0edd3
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_5
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 181
+        width: 47
+        height: 45
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca19a9aeb0aa15479f584ea180df4cc
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_6
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 137
+        width: 39
+        height: 39
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20cff45856247414187eceaf59bcdcee
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_7
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 137
+        width: 33
+        height: 35
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9cd24af78ecd8c744a9f5cbb9a217290
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_8
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 140
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8025eb0f3fd3640a158f6c18dbc857
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_9
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 144
+        width: 42
+        height: 31
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f7f890f5c2535a498cce750641bd006
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_10
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 146
+        width: 48
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f78c7a59a73933479bcb30b3456a69c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_11
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 146
+        width: 48
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f759a2cae24179e42ae094c0beefd275
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_12
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 146
+        width: 48
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec9b1ec815c63b428b969665d64a156
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_13
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 146
+        width: 48
+        height: 27
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b200f7e74bab29b48a648c94397cc132
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_14
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 103
+        width: 50
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 731ad1a4261c7684f96bc6f8332ec387
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_15
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 104
+        width: 45
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223225e9f4a0f024cb7db8ee98a71212
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_16
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 103
+        width: 48
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2405741e3c5a9464d820c41aa32956f2
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_17
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 103
+        width: 48
+        height: 30
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bd4015e6e20c0f41a1e6e440982a71c
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_18
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 104
+        width: 47
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9faf8e1d9e975bb41806aca780561cc2
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_19
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 104
+        width: 46
+        height: 29
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f594e778d0054944b74fd23692265e9
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_20
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 88
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef090b325615caf45adadb6e9fb7673c
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_21
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 88
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79f8736701103c047b365637952d006e
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_22
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 88
+        width: 13
+        height: 9
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d18fa90078a50d4388e9042d49964e2
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_23
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 57
+        width: 24
+        height: 24
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a8a2131ca668764eb08e765a41547ff
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_24
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 61
+        width: 12
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aff0885674093644b86123c934733d44
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_25
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 62
+        width: 20
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea0ca9e231795cd4996c2ce87738ac41
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_26
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 62
+        width: 16
+        height: 16
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35128d55622867945861630963e68445
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_27
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 64
+        width: 13
+        height: 13
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c293dcae7a1af04e8a4b1e5fc09af47
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_28
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 43
+        width: 60
+        height: 4
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01af38dd6ca2b374e9930cec61f3b67a
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_29
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 22
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec134f6c80ef1e140a85697b0988ed4e
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 20
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842e32860eabad944acc3dc4fb6956f1
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_31
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 20
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d61a67226388a7c4995c5f74bdae4ee1
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_32
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 22
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba19ea0f1f9411348b36794f820513fd
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_33
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 22
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a0a8977f8d716e4fbb5d91f932e2f5b
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_34
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 22
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 029237556cef51246a09205d07402470
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_35
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 20
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b4b1529f379ece42a626159a402ea58
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_36
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 22
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3747eaffc9bea9498548c48ee34b5f3
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_37
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 22
+        width: 7
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc4bb13085ff5244ebc2317405faa600
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_38
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 22
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5b711805358c94297a7618b2d94a54
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_39
+      rect:
+        serializedVersion: 2
+        x: 219
+        y: 22
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c93a20c94357c0f44980d35c1d2a0984
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_40
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 22
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6864697349d7d11499a1bf823471a772
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_41
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 22
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5199133c237989b4c80b7a992e23280f
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_42
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 20
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b122d0b2423f54dad49b17add8fc43
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_43
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 22
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9b564e43d4266e48bf39ea1d8b5fbb8
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_44
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 22
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8928d6e7af1ad9f4598538a226591fcd
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_45
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 9
+        width: 6
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e22abc88e1b4704b9ff05efa92c42fe
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_46
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 9
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ce607739347f5b449df147758eeaae0
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_47
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 9
+        width: 5
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93d2b775a871ba14baf4dc3471acbb70
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_48
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 9
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20438d3e89a678140923931814e99a11
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_49
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 9
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3f2d0e4889030347bfa0502e8d311b9
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_50
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e43881f95bbe8734ebce294e485bcc43
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_51
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 9
+        width: 4
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a910304c47edd4a45a1ac2ca78874d52
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_52
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 9
+        width: 10
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf28c45f9970c2841aa4660fb9ef3087
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_53
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 9
+        width: 8
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8902cfb13511f6f4d87d4b9c0b2c4585
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_54
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 9
+        width: 4
+        height: 6
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ece68a06401db954db785e19016d7d22
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_55
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 9
+        width: 5
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c125f1634227734d8dd43b72f680666
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_56
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 9
+        width: 8
+        height: 8
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9da6eacc6f6cf7641ba77f7127d61a41
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 0d51de1f98bf7ca4daff1e58293fc3d5
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

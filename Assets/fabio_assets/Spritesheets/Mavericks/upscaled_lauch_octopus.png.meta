@@ -1,0 +1,1928 @@
+fileFormatVersion: 2
+guid: 90551689f0bc3014ca6c0e5152145d87
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: upscaled_lauch_octopus_0
+  - first:
+      213: 21300002
+    second: upscaled_lauch_octopus_1
+  - first:
+      213: 21300004
+    second: upscaled_lauch_octopus_2
+  - first:
+      213: 21300006
+    second: upscaled_lauch_octopus_3
+  - first:
+      213: 21300008
+    second: upscaled_lauch_octopus_4
+  - first:
+      213: 21300010
+    second: upscaled_lauch_octopus_5
+  - first:
+      213: 21300012
+    second: upscaled_lauch_octopus_6
+  - first:
+      213: 21300014
+    second: upscaled_lauch_octopus_7
+  - first:
+      213: 21300016
+    second: upscaled_lauch_octopus_8
+  - first:
+      213: 21300018
+    second: upscaled_lauch_octopus_9
+  - first:
+      213: 21300020
+    second: upscaled_lauch_octopus_10
+  - first:
+      213: 21300022
+    second: upscaled_lauch_octopus_11
+  - first:
+      213: 21300024
+    second: upscaled_lauch_octopus_12
+  - first:
+      213: 21300026
+    second: upscaled_lauch_octopus_13
+  - first:
+      213: 21300028
+    second: upscaled_lauch_octopus_14
+  - first:
+      213: 21300030
+    second: upscaled_lauch_octopus_15
+  - first:
+      213: 21300032
+    second: upscaled_lauch_octopus_16
+  - first:
+      213: 21300034
+    second: upscaled_lauch_octopus_17
+  - first:
+      213: 21300036
+    second: upscaled_lauch_octopus_18
+  - first:
+      213: 21300038
+    second: upscaled_lauch_octopus_19
+  - first:
+      213: 21300040
+    second: upscaled_lauch_octopus_20
+  - first:
+      213: 21300042
+    second: upscaled_lauch_octopus_21
+  - first:
+      213: 21300044
+    second: upscaled_lauch_octopus_22
+  - first:
+      213: 21300046
+    second: upscaled_lauch_octopus_23
+  - first:
+      213: 21300048
+    second: upscaled_lauch_octopus_24
+  - first:
+      213: 21300050
+    second: upscaled_lauch_octopus_25
+  - first:
+      213: 21300052
+    second: upscaled_lauch_octopus_26
+  - first:
+      213: 21300054
+    second: upscaled_lauch_octopus_27
+  - first:
+      213: 21300056
+    second: upscaled_lauch_octopus_28
+  - first:
+      213: 21300058
+    second: upscaled_lauch_octopus_29
+  - first:
+      213: 21300060
+    second: upscaled_lauch_octopus_30
+  - first:
+      213: 21300062
+    second: upscaled_lauch_octopus_31
+  - first:
+      213: 21300064
+    second: upscaled_lauch_octopus_32
+  - first:
+      213: 21300066
+    second: upscaled_lauch_octopus_33
+  - first:
+      213: 21300068
+    second: upscaled_lauch_octopus_34
+  - first:
+      213: 21300070
+    second: upscaled_lauch_octopus_35
+  - first:
+      213: 21300072
+    second: upscaled_lauch_octopus_36
+  - first:
+      213: 21300074
+    second: upscaled_lauch_octopus_37
+  - first:
+      213: 21300076
+    second: upscaled_lauch_octopus_38
+  - first:
+      213: 21300078
+    second: upscaled_lauch_octopus_39
+  - first:
+      213: 21300080
+    second: upscaled_lauch_octopus_40
+  - first:
+      213: 21300082
+    second: upscaled_lauch_octopus_41
+  - first:
+      213: 21300084
+    second: upscaled_lauch_octopus_42
+  - first:
+      213: 21300086
+    second: upscaled_lauch_octopus_43
+  - first:
+      213: 21300088
+    second: upscaled_lauch_octopus_44
+  - first:
+      213: 21300090
+    second: upscaled_lauch_octopus_45
+  - first:
+      213: 21300092
+    second: upscaled_lauch_octopus_46
+  - first:
+      213: 21300094
+    second: upscaled_lauch_octopus_47
+  - first:
+      213: 21300096
+    second: upscaled_lauch_octopus_48
+  - first:
+      213: 21300098
+    second: upscaled_lauch_octopus_49
+  - first:
+      213: 21300100
+    second: upscaled_lauch_octopus_50
+  - first:
+      213: 21300102
+    second: upscaled_lauch_octopus_51
+  - first:
+      213: 21300104
+    second: upscaled_lauch_octopus_52
+  - first:
+      213: 21300106
+    second: upscaled_lauch_octopus_53
+  - first:
+      213: 21300108
+    second: upscaled_lauch_octopus_54
+  - first:
+      213: 21300110
+    second: upscaled_lauch_octopus_55
+  - first:
+      213: 21300112
+    second: upscaled_lauch_octopus_56
+  - first:
+      213: 21300114
+    second: upscaled_lauch_octopus_57
+  - first:
+      213: 21300116
+    second: upscaled_lauch_octopus_58
+  - first:
+      213: 21300118
+    second: upscaled_lauch_octopus_59
+  - first:
+      213: 21300120
+    second: upscaled_lauch_octopus_60
+  - first:
+      213: 21300122
+    second: upscaled_lauch_octopus_61
+  - first:
+      213: 21300124
+    second: upscaled_lauch_octopus_62
+  - first:
+      213: 21300126
+    second: upscaled_lauch_octopus_63
+  - first:
+      213: 21300128
+    second: upscaled_lauch_octopus_64
+  - first:
+      213: 21300130
+    second: upscaled_lauch_octopus_65
+  - first:
+      213: 21300132
+    second: upscaled_lauch_octopus_66
+  - first:
+      213: 21300134
+    second: upscaled_lauch_octopus_67
+  - first:
+      213: 21300136
+    second: upscaled_lauch_octopus_68
+  - first:
+      213: 21300138
+    second: upscaled_lauch_octopus_69
+  - first:
+      213: 21300140
+    second: upscaled_lauch_octopus_70
+  - first:
+      213: 21300142
+    second: upscaled_lauch_octopus_71
+  - first:
+      213: 21300144
+    second: upscaled_lauch_octopus_72
+  - first:
+      213: 21300146
+    second: upscaled_lauch_octopus_73
+  - first:
+      213: 21300148
+    second: upscaled_lauch_octopus_74
+  - first:
+      213: 21300150
+    second: upscaled_lauch_octopus_75
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_0
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1860
+        width: 233
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a64d8a14b6c09484c91a456def4b22b7
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_1
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 1860
+        width: 218
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad8184fbfeba1fc45a058b2d528507ca
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_2
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1860
+        width: 181
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de4eeec236e23984c85dca592bd9c591
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_3
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1860
+        width: 166
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a21896a738c6a14188e7ab45605337f
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_4
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 1860
+        width: 181
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 997488bb792f38c4d9a5041a577067f9
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_5
+      rect:
+        serializedVersion: 2
+        x: 1114
+        y: 1860
+        width: 220
+        height: 263
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7faaaa4bc99f94248b816cebfc9b215d
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_6
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 1860
+        width: 233
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0b97e5fb998f964a9c1e93e34ec0a71
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_7
+      rect:
+        serializedVersion: 2
+        x: 1585
+        y: 1860
+        width: 226
+        height: 246
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8016faec263c25d4c9d49dc25596c6ea
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_8
+      rect:
+        serializedVersion: 2
+        x: 1817
+        y: 1860
+        width: 317
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95b559fc9f5e4b6439402c2cc5dc2d2c
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_9
+      rect:
+        serializedVersion: 2
+        x: 2137
+        y: 1860
+        width: 418
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9924e71d588e1448f56d705fa93043
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_10
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 1596
+        width: 433
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd4431a441f8eb4497fa6515cd14f6c
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_11
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1596
+        width: 362
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d9b6ae97e834f14ca724a20524ac564
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_12
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1744
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecf05ad1a93125e448c55124093a40b7
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_13
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 1772
+        width: 13
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3a8e204e14737443ad19c8edf292730
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_14
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 1600
+        width: 306
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb8650bc57bbf664185a2e993f0b8d49
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_15
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1768
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3209a9c732bd9a4ebcee31fa64f28a3
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_16
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1744
+        width: 34
+        height: 34
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd94693352f051c49a8810326f6818d1
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_17
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 1748
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 899b380fbd80e0b4eb5d3f821987c0af
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_18
+      rect:
+        serializedVersion: 2
+        x: 1621
+        y: 1776
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee594d2175a562b48a09439489dd2fab
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_19
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 1600
+        width: 226
+        height: 254
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458166e1f5817d94b9b101a058f6059e
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_20
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1748
+        width: 33
+        height: 38
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8219f77d81ae0541921ceb40ae24ee2
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_21
+      rect:
+        serializedVersion: 2
+        x: 2017
+        y: 1776
+        width: 14
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86e0b4df7e82c544ba7f56f0059db766
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_22
+      rect:
+        serializedVersion: 2
+        x: 2070
+        y: 1600
+        width: 233
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba347b76940b71c4491c68e89986a381
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_23
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 1716
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3e9ecd3c0f393641bc58fe5c9e390dc
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_24
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1716
+        width: 37
+        height: 54
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 995f4f34fc3104d48b08269fd46d5db3
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_25
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 1675
+        width: 33
+        height: 19
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47b8d731ddb22f647b04b89d56a77c6e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_26
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1680
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08d18484a05dbd04aa1580e49184b172
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_27
+      rect:
+        serializedVersion: 2
+        x: 1929
+        y: 1680
+        width: 33
+        height: 18
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8620c19ef99f0eb4da52e6612a53dbaa
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_28
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 1332
+        width: 250
+        height: 258
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46d45323919dad64e9940b3e49bfa27d
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_29
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 1332
+        width: 249
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dab63dd9261f9cc45a5a499c5908ec75
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_30
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1332
+        width: 321
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4d0c1f6c47d6ad4b8559c6fc19c8dbb
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_31
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 1332
+        width: 313
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeb5b2990ca2a3b449a74ba6e29bceb0
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_32
+      rect:
+        serializedVersion: 2
+        x: 1357
+        y: 1332
+        width: 290
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90d94417e339bfc4db2962c3e5a0b1cd
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_33
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 1332
+        width: 365
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86dcf2686836e724cb4a9edf8e6daa5c
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_34
+      rect:
+        serializedVersion: 2
+        x: 2030
+        y: 1332
+        width: 357
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24f260098f934340ae00b76e487f46b
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_35
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1084
+        width: 233
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e4dc312b26cfde43a1d6a3fe450ed0f
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_36
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 1084
+        width: 305
+        height: 230
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39e3046ed2fd48046873688b5b6602e3
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_37
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 1084
+        width: 293
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 866a9a24370b2f749a2e89763eaca924
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_38
+      rect:
+        serializedVersion: 2
+        x: 1270
+        y: 1084
+        width: 293
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e7972fddeefb934694ed476dbcb7809
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_39
+      rect:
+        serializedVersion: 2
+        x: 1561
+        y: 1084
+        width: 290
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c61f716b63cb3a489bfa52b4413c9d5
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_40
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 1084
+        width: 298
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5372766de2300dd47ae260efcf2404f1
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_41
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 824
+        width: 333
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d2082ec284fa974485afccc4214a966
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_42
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 824
+        width: 237
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22879ef79cfd29d49ac23b70b4e02538
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_43
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 816
+        width: 117
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1008bb89290a31a45871299ab14352a0
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_44
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 816
+        width: 253
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db13e85cf4821664ba6f94ff02707d7b
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_45
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 816
+        width: 333
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c92f9d6fdadc2f4f9072d30b4e66aae
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_46
+      rect:
+        serializedVersion: 2
+        x: 1346
+        y: 816
+        width: 253
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e36ac7d13fd68d4b94aef4652f8bc88
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_47
+      rect:
+        serializedVersion: 2
+        x: 1614
+        y: 816
+        width: 117
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64aa87d01c37444e94e01db7880486c
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_48
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 816
+        width: 237
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63be7ea031879844188d08a398997089
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_49
+      rect:
+        serializedVersion: 2
+        x: 1998
+        y: 748
+        width: 189
+        height: 302
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8d9ea0682c51cd46bac386883255540
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_50
+      rect:
+        serializedVersion: 2
+        x: 2206
+        y: 740
+        width: 184
+        height: 310
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a21e34b19d761a64fad7c28a85dfc1d4
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_51
+      rect:
+        serializedVersion: 2
+        x: 2406
+        y: 736
+        width: 196
+        height: 314
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b92e78cac85ddf46956287ebd3c1d70
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_52
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 512
+        width: 233
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ccffc5ded3915c458ac3153874f3fec
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_53
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 512
+        width: 233
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8468771961944b24c801f7d5e776ee9e
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_54
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 512
+        width: 233
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94303ffda74e94a418773aa57468e631
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_55
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 512
+        width: 233
+        height: 226
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 463978c82eaa4bc4889d3eefcefb94cb
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_56
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 512
+        width: 234
+        height: 222
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b5860c044dd84e4999a1830040a0b52
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_57
+      rect:
+        serializedVersion: 2
+        x: 1630
+        y: 512
+        width: 233
+        height: 218
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15458246650d17d43b4b5ab21dbe7d8b
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_58
+      rect:
+        serializedVersion: 2
+        x: 1882
+        y: 492
+        width: 265
+        height: 233
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a220c676823a02b4fb15cdf47714449a
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_59
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 272
+        width: 141
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df09c2be8250f544ba65a7faa44a85bb
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_60
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 272
+        width: 141
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8eddb2a5cc6148e49b69f4b124deb6c1
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_61
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 272
+        width: 141
+        height: 210
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8faab05be9c0c941be4a759c9405b58
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_62
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 272
+        width: 141
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ee8ed8a302f248a3a2c5817864f13
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_63
+      rect:
+        serializedVersion: 2
+        x: 1217
+        y: 272
+        width: 142
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 582d0c3056d95e3468ac3e0f57b0596a
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_64
+      rect:
+        serializedVersion: 2
+        x: 1389
+        y: 272
+        width: 142
+        height: 206
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8569d12b33293af4084f0f0a8a2ceaff
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_65
+      rect:
+        serializedVersion: 2
+        x: 1574
+        y: 272
+        width: 141
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ae34d71449435c49955a6e0f6c0ef73
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_66
+      rect:
+        serializedVersion: 2
+        x: 1766
+        y: 272
+        width: 140
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a766a57657400a4d8e2c76b0f9257db
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_67
+      rect:
+        serializedVersion: 2
+        x: 1946
+        y: 272
+        width: 141
+        height: 202
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccfaf1363b159264caf11a578576004f
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_68
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 0
+        width: 384
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c7d652113412f84298035769e45f5af
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_69
+      rect:
+        serializedVersion: 2
+        x: 974
+        y: 0
+        width: 149
+        height: 250
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 227db071c0b9d5043a94653078454685
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_70
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 16
+        width: 149
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e99cdb812c42994f870d8dda97f6968
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_71
+      rect:
+        serializedVersion: 2
+        x: 1267
+        y: 0
+        width: 220
+        height: 234
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc5cb6e61c40f474aac12a6cdc2d73e5
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_72
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 113
+        width: 117
+        height: 48
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 943920b35ff01ad4994f51680e18932d
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_73
+      rect:
+        serializedVersion: 2
+        x: 1710
+        y: 156
+        width: 149
+        height: 89
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 374394027e292b649a7fadf0e4e81b87
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_74
+      rect:
+        serializedVersion: 2
+        x: 1566
+        y: 40
+        width: 117
+        height: 50
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3869910ecd5b636449c7f3366fb3fd48
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: upscaled_lauch_octopus_75
+      rect:
+        serializedVersion: 2
+        x: 1722
+        y: 25
+        width: 125
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a1ae8777fb92cd44fb9dfc4a27bfaf27
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 341fb7039af02d94ba6089e779ba4d1a
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

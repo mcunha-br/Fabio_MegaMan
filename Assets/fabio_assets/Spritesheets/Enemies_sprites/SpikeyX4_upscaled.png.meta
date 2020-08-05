@@ -1,0 +1,776 @@
+fileFormatVersion: 2
+guid: c8ace3d48b508c042874329cb53df5e4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: SpikeyX4_upscaled_0
+  - first:
+      213: 21300002
+    second: SpikeyX4_upscaled_1
+  - first:
+      213: 21300004
+    second: SpikeyX4_upscaled_2
+  - first:
+      213: 21300006
+    second: SpikeyX4_upscaled_3
+  - first:
+      213: 21300008
+    second: SpikeyX4_upscaled_4
+  - first:
+      213: 21300010
+    second: SpikeyX4_upscaled_5
+  - first:
+      213: 21300012
+    second: SpikeyX4_upscaled_6
+  - first:
+      213: 21300014
+    second: SpikeyX4_upscaled_7
+  - first:
+      213: 21300016
+    second: SpikeyX4_upscaled_8
+  - first:
+      213: 21300018
+    second: SpikeyX4_upscaled_9
+  - first:
+      213: 21300020
+    second: SpikeyX4_upscaled_10
+  - first:
+      213: 21300022
+    second: SpikeyX4_upscaled_11
+  - first:
+      213: 21300024
+    second: SpikeyX4_upscaled_12
+  - first:
+      213: 21300026
+    second: SpikeyX4_upscaled_13
+  - first:
+      213: 21300028
+    second: SpikeyX4_upscaled_14
+  - first:
+      213: 21300030
+    second: SpikeyX4_upscaled_15
+  - first:
+      213: 21300032
+    second: SpikeyX4_upscaled_16
+  - first:
+      213: 21300034
+    second: SpikeyX4_upscaled_17
+  - first:
+      213: 21300036
+    second: SpikeyX4_upscaled_18
+  - first:
+      213: 21300038
+    second: SpikeyX4_upscaled_19
+  - first:
+      213: 21300040
+    second: SpikeyX4_upscaled_20
+  - first:
+      213: 21300042
+    second: SpikeyX4_upscaled_21
+  - first:
+      213: 21300044
+    second: SpikeyX4_upscaled_22
+  - first:
+      213: 21300046
+    second: SpikeyX4_upscaled_23
+  - first:
+      213: 21300048
+    second: SpikeyX4_upscaled_24
+  - first:
+      213: 21300050
+    second: SpikeyX4_upscaled_25
+  - first:
+      213: 21300052
+    second: SpikeyX4_upscaled_26
+  - first:
+      213: 21300054
+    second: SpikeyX4_upscaled_27
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_0
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 498
+        width: 194
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d8c69d1e4edb2141868e5e297f22d9a
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_1
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 502
+        width: 190
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b7a5add221f1d346882a2ee0b7da7ae
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_2
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 498
+        width: 190
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b67930e70bdd99d49bd7023869b97f72
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_3
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 498
+        width: 190
+        height: 189
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 250fb9e99e1f4ed43af58166b5127937
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_4
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 502
+        width: 186
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a81437c9b7a504041b8d09bc4f26525d
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_5
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 502
+        width: 190
+        height: 181
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e643d2126b5e894e9ef1991d31aca29
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_6
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 326
+        width: 158
+        height: 157
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c72e99ffc438074081195598a79ce27
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_7
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 326
+        width: 134
+        height: 141
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82cd654968f8c5b42a2696bcf806572f
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_8
+      rect:
+        serializedVersion: 2
+        x: 367
+        y: 338
+        width: 138
+        height: 137
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: abd549b8bdf96344a8dce2e597db56c2
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_9
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 354
+        width: 170
+        height: 125
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeced0854f97484489a6cebbeb6fc036
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_10
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 362
+        width: 194
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bca875fc05d3db34db1224ed1014fb66
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_11
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 362
+        width: 194
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c07fb4a71ac5f49a5a1b66ebd089c2
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_12
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 362
+        width: 194
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1936f9575222234abd679eee23502c0
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_13
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 362
+        width: 194
+        height: 109
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e452a534e6e8ded489f9fa73447b5cc2
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_14
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 190
+        width: 202
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98602f461ff939844b230adf938937a8
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_15
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 194
+        width: 182
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c596eb8aa193722439d6b0dab96b33bb
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_16
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 190
+        width: 194
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e445c39464d20b140b937deaef074218
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_17
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 190
+        width: 194
+        height: 121
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6d78485716e71814587c88bafbc0aac5
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_18
+      rect:
+        serializedVersion: 2
+        x: 1019
+        y: 194
+        width: 190
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae4cdd3021387d741ab02ba7b631b53f
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_19
+      rect:
+        serializedVersion: 2
+        x: 1239
+        y: 194
+        width: 186
+        height: 117
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27cce36a50943b848a69c96d7403c7de
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_20
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 130
+        width: 54
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e6fce22d38df7849ac01f3682bde642
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_21
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 130
+        width: 54
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3768eab4bdc0a1040a77fa73c2f70ae8
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 130
+        width: 54
+        height: 37
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b8fd9504a0476341b268c3d50cd332c
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_23
+      rect:
+        serializedVersion: 2
+        x: 503
+        y: 6
+        width: 98
+        height: 97
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65ca97391ec899f4e9a3b4170e3b6160
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_24
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 22
+        width: 50
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8f6302b02a2c244a9fb3807e93ca290
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_25
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 26
+        width: 82
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8ef55847a8cb7c44912829a8af5edb1
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_26
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 26
+        width: 66
+        height: 65
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f173b232a098944aa8413d196157f56
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: SpikeyX4_upscaled_27
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 34
+        width: 54
+        height: 53
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65a55be6e46b23d478ecd99278d1678b
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 45d61269f71ff8b46bda20b762aada61
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

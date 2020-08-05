@@ -1,0 +1,3200 @@
+fileFormatVersion: 2
+guid: c28bb59c979f3fc41896671cc6378492
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 21300000
+    second: grenademan_x5_parts_0
+  - first:
+      213: 21300002
+    second: grenademan_x5_parts_1
+  - first:
+      213: 21300004
+    second: grenademan_x5_parts_2
+  - first:
+      213: 21300006
+    second: grenademan_x5_parts_3
+  - first:
+      213: 21300008
+    second: grenademan_x5_parts_4
+  - first:
+      213: 21300010
+    second: grenademan_x5_parts_5
+  - first:
+      213: 21300012
+    second: grenademan_x5_parts_6
+  - first:
+      213: 21300014
+    second: grenademan_x5_parts_7
+  - first:
+      213: 21300016
+    second: grenademan_x5_parts_8
+  - first:
+      213: 21300018
+    second: grenademan_x5_parts_9
+  - first:
+      213: 21300020
+    second: grenademan_x5_parts_10
+  - first:
+      213: 21300022
+    second: grenademan_x5_parts_11
+  - first:
+      213: 21300024
+    second: grenademan_x5_parts_12
+  - first:
+      213: 21300026
+    second: grenademan_x5_parts_13
+  - first:
+      213: 21300028
+    second: grenademan_x5_parts_14
+  - first:
+      213: 21300030
+    second: grenademan_x5_parts_15
+  - first:
+      213: 21300032
+    second: grenademan_x5_parts_16
+  - first:
+      213: 21300034
+    second: grenademan_x5_parts_17
+  - first:
+      213: 21300036
+    second: grenademan_x5_parts_18
+  - first:
+      213: 21300038
+    second: grenademan_x5_parts_19
+  - first:
+      213: 21300040
+    second: grenademan_x5_parts_20
+  - first:
+      213: 21300042
+    second: grenademan_x5_parts_21
+  - first:
+      213: 21300044
+    second: grenademan_x5_parts_22
+  - first:
+      213: 21300046
+    second: grenademan_x5_parts_23
+  - first:
+      213: 21300048
+    second: grenademan_x5_parts_24
+  - first:
+      213: 21300050
+    second: grenademan_x5_parts_25
+  - first:
+      213: 21300052
+    second: grenademan_x5_parts_26
+  - first:
+      213: 21300054
+    second: grenademan_x5_parts_27
+  - first:
+      213: 21300056
+    second: grenademan_x5_parts_28
+  - first:
+      213: 21300058
+    second: grenademan_x5_parts_29
+  - first:
+      213: 21300060
+    second: grenademan_x5_parts_30
+  - first:
+      213: 21300062
+    second: grenademan_x5_parts_31
+  - first:
+      213: 21300064
+    second: grenademan_x5_parts_32
+  - first:
+      213: 21300066
+    second: grenademan_x5_parts_33
+  - first:
+      213: 21300068
+    second: grenademan_x5_parts_34
+  - first:
+      213: 21300070
+    second: grenademan_x5_parts_35
+  - first:
+      213: 21300072
+    second: grenademan_x5_parts_36
+  - first:
+      213: 21300074
+    second: grenademan_x5_parts_37
+  - first:
+      213: 21300076
+    second: grenademan_x5_parts_38
+  - first:
+      213: 21300078
+    second: grenademan_x5_parts_39
+  - first:
+      213: 21300080
+    second: grenademan_x5_parts_40
+  - first:
+      213: 21300082
+    second: grenademan_x5_parts_41
+  - first:
+      213: 21300084
+    second: grenademan_x5_parts_42
+  - first:
+      213: 21300086
+    second: grenademan_x5_parts_43
+  - first:
+      213: 21300088
+    second: grenademan_x5_parts_44
+  - first:
+      213: 21300090
+    second: grenademan_x5_parts_45
+  - first:
+      213: 21300092
+    second: grenademan_x5_parts_46
+  - first:
+      213: 21300094
+    second: grenademan_x5_parts_47
+  - first:
+      213: 21300096
+    second: grenademan_x5_parts_48
+  - first:
+      213: 21300098
+    second: grenademan_x5_parts_49
+  - first:
+      213: 21300100
+    second: grenademan_x5_parts_50
+  - first:
+      213: 21300102
+    second: grenademan_x5_parts_51
+  - first:
+      213: 21300104
+    second: grenademan_x5_parts_52
+  - first:
+      213: 21300106
+    second: grenademan_x5_parts_53
+  - first:
+      213: 21300108
+    second: grenademan_x5_parts_54
+  - first:
+      213: 21300110
+    second: grenademan_x5_parts_55
+  - first:
+      213: 21300112
+    second: grenademan_x5_parts_56
+  - first:
+      213: 21300114
+    second: grenademan_x5_parts_57
+  - first:
+      213: 21300116
+    second: grenademan_x5_parts_58
+  - first:
+      213: 21300118
+    second: grenademan_x5_parts_59
+  - first:
+      213: 21300120
+    second: grenademan_x5_parts_60
+  - first:
+      213: 21300122
+    second: grenademan_x5_parts_61
+  - first:
+      213: 21300124
+    second: grenademan_x5_parts_62
+  - first:
+      213: 21300126
+    second: grenademan_x5_parts_63
+  - first:
+      213: 21300128
+    second: grenademan_x5_parts_64
+  - first:
+      213: 21300130
+    second: grenademan_x5_parts_65
+  - first:
+      213: 21300132
+    second: grenademan_x5_parts_66
+  - first:
+      213: 21300134
+    second: grenademan_x5_parts_67
+  - first:
+      213: 21300136
+    second: grenademan_x5_parts_68
+  - first:
+      213: 21300138
+    second: grenademan_x5_parts_69
+  - first:
+      213: 21300140
+    second: grenademan_x5_parts_70
+  - first:
+      213: 21300142
+    second: grenademan_x5_parts_71
+  - first:
+      213: 21300144
+    second: grenademan_x5_parts_72
+  - first:
+      213: 21300146
+    second: grenademan_x5_parts_73
+  - first:
+      213: 21300148
+    second: grenademan_x5_parts_74
+  - first:
+      213: 21300150
+    second: grenademan_x5_parts_75
+  - first:
+      213: 21300152
+    second: grenademan_x5_parts_76
+  - first:
+      213: 21300154
+    second: grenademan_x5_parts_77
+  - first:
+      213: 21300156
+    second: grenademan_x5_parts_78
+  - first:
+      213: 21300158
+    second: grenademan_x5_parts_79
+  - first:
+      213: 21300160
+    second: grenademan_x5_parts_80
+  - first:
+      213: 21300162
+    second: grenademan_x5_parts_81
+  - first:
+      213: 21300164
+    second: grenademan_x5_parts_82
+  - first:
+      213: 21300166
+    second: grenademan_x5_parts_83
+  - first:
+      213: 21300168
+    second: grenademan_x5_parts_84
+  - first:
+      213: 21300170
+    second: grenademan_x5_parts_85
+  - first:
+      213: 21300172
+    second: grenademan_x5_parts_86
+  - first:
+      213: 21300174
+    second: grenademan_x5_parts_87
+  - first:
+      213: 21300176
+    second: grenademan_x5_parts_88
+  - first:
+      213: 21300178
+    second: grenademan_x5_parts_89
+  - first:
+      213: 21300180
+    second: grenademan_x5_parts_90
+  - first:
+      213: 21300182
+    second: grenademan_x5_parts_91
+  - first:
+      213: 21300184
+    second: grenademan_x5_parts_92
+  - first:
+      213: 21300186
+    second: grenademan_x5_parts_93
+  - first:
+      213: 21300188
+    second: grenademan_x5_parts_94
+  - first:
+      213: 21300190
+    second: grenademan_x5_parts_95
+  - first:
+      213: 21300192
+    second: grenademan_x5_parts_96
+  - first:
+      213: 21300194
+    second: grenademan_x5_parts_97
+  - first:
+      213: 21300196
+    second: grenademan_x5_parts_98
+  - first:
+      213: 21300198
+    second: grenademan_x5_parts_99
+  - first:
+      213: 21300200
+    second: grenademan_x5_parts_100
+  - first:
+      213: 21300202
+    second: grenademan_x5_parts_101
+  - first:
+      213: 21300204
+    second: grenademan_x5_parts_102
+  - first:
+      213: 21300206
+    second: grenademan_x5_parts_103
+  - first:
+      213: 21300208
+    second: grenademan_x5_parts_104
+  - first:
+      213: 21300210
+    second: grenademan_x5_parts_105
+  - first:
+      213: 21300212
+    second: grenademan_x5_parts_106
+  - first:
+      213: 21300214
+    second: grenademan_x5_parts_107
+  - first:
+      213: 21300216
+    second: grenademan_x5_parts_108
+  - first:
+      213: 21300218
+    second: grenademan_x5_parts_109
+  - first:
+      213: 21300220
+    second: grenademan_x5_parts_110
+  - first:
+      213: 21300222
+    second: grenademan_x5_parts_111
+  - first:
+      213: 21300224
+    second: grenademan_x5_parts_112
+  - first:
+      213: 21300226
+    second: grenademan_x5_parts_113
+  - first:
+      213: 21300228
+    second: grenademan_x5_parts_114
+  - first:
+      213: 21300230
+    second: grenademan_x5_parts_115
+  - first:
+      213: 21300232
+    second: grenademan_x5_parts_116
+  - first:
+      213: 21300234
+    second: grenademan_x5_parts_117
+  - first:
+      213: 21300236
+    second: grenademan_x5_parts_118
+  - first:
+      213: 21300238
+    second: grenademan_x5_parts_119
+  - first:
+      213: 21300240
+    second: grenademan_x5_parts_120
+  - first:
+      213: 21300242
+    second: grenademan_x5_parts_121
+  - first:
+      213: 21300244
+    second: grenademan_x5_parts_122
+  - first:
+      213: 21300246
+    second: grenademan_x5_parts_123
+  - first:
+      213: 21300248
+    second: grenademan_x5_parts_124
+  - first:
+      213: 21300250
+    second: grenademan_x5_parts_125
+  - first:
+      213: 21300252
+    second: grenademan_x5_parts_126
+  - first:
+      213: 21300254
+    second: grenademan_x5_parts_127
+  - first:
+      213: 21300256
+    second: grenademan_x5_parts_128
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: grenademan_x5_parts_0
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 574
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1413e5cb242aaed4e8eb02d82b63f35f
+      internalID: 21300000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_1
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 574
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f64bd1c50a98e4aab3517479ae99df
+      internalID: 21300002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_2
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 574
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9911add8ea493f141ac5ee5ad7d2b000
+      internalID: 21300004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_3
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 558
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7db986a2080eb22439497aefab3a60da
+      internalID: 21300006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_4
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 538
+        width: 37
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86688fe554b36a74086bd74a6a26ba54
+      internalID: 21300008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_5
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 548
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a31aabaade980a41ac054121e1000fc
+      internalID: 21300010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_6
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 548
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7c761b044f9da844b149fbc4afa5d97
+      internalID: 21300012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_7
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 548
+        width: 14
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8a010327f8d2854795a8d6272730b51
+      internalID: 21300014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_8
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 550
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdcc13a6e84d0074e9eaba3c4657c208
+      internalID: 21300016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_9
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 530
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2e14a3f4e5c0047af0ade3d1b5208e
+      internalID: 21300018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 530
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf57c83a76b2caf459da3c65dfe3c592
+      internalID: 21300020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_11
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 532
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7992606b5e148d241aa2b7e04df1223b
+      internalID: 21300022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 509
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd48c48628b882149b65786c36419236
+      internalID: 21300024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_13
+      rect:
+        serializedVersion: 2
+        x: 243
+        y: 509
+        width: 32
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9472a99b2c1390439b18fbbb2db5c3b
+      internalID: 21300026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_14
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 509
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1fbf10baf3b910408054c7dcc5c3108
+      internalID: 21300028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_15
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 458
+        width: 34
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ce604d8071d55f429e6e1b88db6d974
+      internalID: 21300030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_16
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 458
+        width: 41
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1f4c8ef43540047a458493188fa23b
+      internalID: 21300032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_17
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 454
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3638fa55ece32bb4ab3117b7082b64ad
+      internalID: 21300034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 448
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b30ce0c5cdd87f44899453bb19ff119
+      internalID: 21300036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_19
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 452
+        width: 42
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f8027e42d44546438a9c17ebbdb9873
+      internalID: 21300038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 422
+        width: 19
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6b535674f83f0f4f956831bd9c643fc
+      internalID: 21300040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_21
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 422
+        width: 33
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692544bb2c51fad46a35aa5aafe47ffe
+      internalID: 21300042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_22
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 422
+        width: 50
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d32adf898d4b0044ca6750b5118d69aa
+      internalID: 21300044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_23
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 422
+        width: 45
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e9c363c075f3a46885f64057c365fb
+      internalID: 21300046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 422
+        width: 23
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eda2b26255483ae4ab22b3836722eee4
+      internalID: 21300048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_25
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 422
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 962451fd34b9d16469cb20913a11ba6e
+      internalID: 21300050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_26
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 422
+        width: 42
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652c105ccaa17034cbb109904fcd6df2
+      internalID: 21300052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 422
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a34f8b9aafa690c448a941fe1aa1872f
+      internalID: 21300054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_28
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 387
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9bc71a38fae6954bb38340377c97c56
+      internalID: 21300056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_29
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 386
+        width: 30
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdab7997ba5607f48986a85897b6b3a4
+      internalID: 21300058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 355
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06975cde1887c1d4894e3ff5d6ee51f6
+      internalID: 21300060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_31
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 358
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec7f9a86807df141b0066a13524039b
+      internalID: 21300062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_32
+      rect:
+        serializedVersion: 2
+        x: 228
+        y: 354
+        width: 11
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6860c42558c11c49984dbe7d8464bdc
+      internalID: 21300064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_33
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 352
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2dc4be1d3f0635d43b053f009d1cd0c2
+      internalID: 21300066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_34
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 368
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe21996e967f43746b0ad5fc7885eae3
+      internalID: 21300068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_35
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 370
+        width: 29
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c437ff3a81c111a42a6b3a5643042ae0
+      internalID: 21300070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_36
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 320
+        width: 16
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00be17fc71a32e149b5200197f4b2da2
+      internalID: 21300072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_37
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 320
+        width: 17
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c74b3d152025bde479069b0dfa245b7e
+      internalID: 21300074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_38
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 329
+        width: 16
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2a9e0aeef40dc443a2453b49855e003
+      internalID: 21300076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_39
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 324
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d646107868995bf4fb4a3b789299e0b5
+      internalID: 21300078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_40
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 326
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b4932967ef3c1f4b88fff224268e18f
+      internalID: 21300080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_41
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 323
+        width: 15
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba561f6636124244d8c3c1a317a25fc3
+      internalID: 21300082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_42
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 242
+        width: 35
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70fecc1c0c3f92d4d97f59eeb3702ff2
+      internalID: 21300084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_43
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 278
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b505935db05abb4baeb07c220e0d4b6
+      internalID: 21300086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_44
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 277
+        width: 27
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42226e5b299c04442b0b9f4fb04d45d9
+      internalID: 21300088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_45
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 281
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6a44eeef6741f4db1eaf75c520872f
+      internalID: 21300090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_46
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 268
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d0c37d3ea9a341c40b94ded008fa4f02
+      internalID: 21300092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_47
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 267
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbbed790dfa45a24b911d2602f1eb7fc
+      internalID: 21300094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_48
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 279
+        width: 26
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efdaa7140c64079428197494d7d25863
+      internalID: 21300096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_49
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 261
+        width: 25
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 835db2feb191d5d40bc159f0d16b25af
+      internalID: 21300098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_50
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 265
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b31d8a69505a84488f756f78f8d7af2
+      internalID: 21300100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_51
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 270
+        width: 27
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d11e5b530bc55ef4ba3e248a022d9b2b
+      internalID: 21300102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_52
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 240
+        width: 50
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6e5bce7472bc60429eca41ac5b1fda0
+      internalID: 21300104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_53
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 254
+        width: 29
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40aa85496ef3ebe49b129f22fb99d586
+      internalID: 21300106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_54
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 240
+        width: 14
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58d1c04b0e1be374da2321628b8d1b71
+      internalID: 21300108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_55
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 253
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 878ce86119959fe46ba7ffc456805e42
+      internalID: 21300110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_56
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 258
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71082010d31a5cd4ba8daa00b4839100
+      internalID: 21300112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_57
+      rect:
+        serializedVersion: 2
+        x: 215
+        y: 240
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8d96be8231accf41b296335fc715356
+      internalID: 21300114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_58
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 240
+        width: 20
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d0c171bbeb791342b07fb5d6faaf567
+      internalID: 21300116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_59
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 240
+        width: 47
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ed4bb3ac5416ce438395c017af6fddc
+      internalID: 21300118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_60
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 253
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd9736e0c7a4f454e8b4a0705438ce16
+      internalID: 21300120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_61
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 194
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6dd0356973331d741b8c9212dfd11df6
+      internalID: 21300122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_62
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 193
+        width: 22
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cf49741eef690e9498c1380b44922830
+      internalID: 21300124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_63
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 217
+        width: 37
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04c11dd11c1396b418a754dd4624ac79
+      internalID: 21300126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_64
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 207
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8bdcc07504730e458f638f84f7af98c
+      internalID: 21300128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_65
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 199
+        width: 27
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3cc80d8416dfe1b498318e0262aa52a3
+      internalID: 21300130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_66
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 193
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f9293f303036042a7f090176abcdb1
+      internalID: 21300132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_67
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 195
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c1549a6c04990942933f80a28eaed54
+      internalID: 21300134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_68
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 196
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d30d147121e00c942b36602f8d780115
+      internalID: 21300136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_69
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 196
+        width: 36
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e71079279646b04693a424758b4e442
+      internalID: 21300138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_70
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 201
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 121cb0d708cc3ec43b4233e530d86810
+      internalID: 21300140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_71
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 196
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27fcd7d442045d04db9fd6035c19c65e
+      internalID: 21300142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_72
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 159
+        width: 32
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7013e0319ea28934ca5e6dd4c10c3519
+      internalID: 21300144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_73
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 156
+        width: 35
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce34f80739f664458f4b8a7862a565a
+      internalID: 21300146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_74
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 157
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b21fbc0cb6627f40819096b2fac84e2
+      internalID: 21300148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_75
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 140
+        width: 54
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90150b4feae48434ca4f81884cccad20
+      internalID: 21300150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_76
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 160
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d00583eca9cf3e44900c19ead367cca
+      internalID: 21300152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_77
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 160
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4325651925e6a04db59c6253e5f5964
+      internalID: 21300154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_78
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 160
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e347c21301c3d624c943d03378196f75
+      internalID: 21300156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_79
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 124
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c092c3a3b0fa5c45a3cbbda87bd4cad
+      internalID: 21300158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_80
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 141
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98cbb74229bd81149aa5f1b2343de34b
+      internalID: 21300160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_81
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 139
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f119534d9140b0d428c578015c3ea4ab
+      internalID: 21300162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_82
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 127
+        width: 60
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c074fdc03b039c84cbfb931820d0bcf2
+      internalID: 21300164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_83
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 61
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7fe3fe4627b98458d6bddbbf18fbf7
+      internalID: 21300166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_84
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 97
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f800b018355bd44b8ac9683ca93985b
+      internalID: 21300168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_85
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 81
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb2272d22c5e8e647bcc1c4660f8ac72
+      internalID: 21300170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_86
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 63
+        width: 59
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac077fd0714c0f142be7d268243fe1c9
+      internalID: 21300172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_87
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 63
+        width: 63
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a68624563b5ecf342b4d11dbd356749d
+      internalID: 21300174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_88
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 82
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0c0e4f743dbce41aa3c99018e21793
+      internalID: 21300176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_89
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 91
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 51642715a588f4e428603920c3fab7c2
+      internalID: 21300178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_90
+      rect:
+        serializedVersion: 2
+        x: 361
+        y: 98
+        width: 17
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163e29d031f24ac478904b6620948bae
+      internalID: 21300180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_91
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 59
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5f288877bc3d414bbda03f5e26fb960
+      internalID: 21300182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_92
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 59
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e01f2b180f6b2814aa1aee82a33380a0
+      internalID: 21300184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_93
+      rect:
+        serializedVersion: 2
+        x: 116
+        y: 81
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5632da92b9c1314693360d4a29f5f89
+      internalID: 21300186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_94
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 63
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f28414c5a6bf7304d8d1f3a8d2fb1976
+      internalID: 21300188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_95
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 69
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ca207167987e94f86bacb15dd92d65
+      internalID: 21300190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_96
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 51
+        width: 31
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e31b0d415c03ef540b6dd20b95b6c83f
+      internalID: 21300192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_97
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 57
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ae6e08a3130e9d4797300a227edb579
+      internalID: 21300194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_98
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 51
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0002669ec1fa52442b14da4cae43ee4b
+      internalID: 21300196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_99
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 61
+        width: 20
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b0856455e23a2f43b80ceaefe2dc6eb
+      internalID: 21300198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_100
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 47
+        width: 22
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 914ee02e9214e864e8267a59a574681e
+      internalID: 21300200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_101
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 28
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5152a9eeea8bf014b837769ca3bfac38
+      internalID: 21300202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_102
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 587f7a2c453cf974da472af3e3514adc
+      internalID: 21300204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_103
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1160766ca6ea76341abe66b45a8821ec
+      internalID: 21300206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_104
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 28
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f4a184a946b0ab4ebbde9d010b063d4
+      internalID: 21300208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_105
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 28
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e044f4982afde548bb033d11bd7f673
+      internalID: 21300210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_106
+      rect:
+        serializedVersion: 2
+        x: 236
+        y: 28
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 940c6b673ac34ea429e1a0370a8f3c91
+      internalID: 21300212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_107
+      rect:
+        serializedVersion: 2
+        x: 242
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6bca460d9b335e42abbcd6e40a9de9f
+      internalID: 21300214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_108
+      rect:
+        serializedVersion: 2
+        x: 251
+        y: 28
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6d1f36dd48d5e74fabdefc7b83c57bb
+      internalID: 21300216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_109
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 28
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6498beed798050144809086dda9e0c34
+      internalID: 21300218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_110
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 28
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb381ec9af0552d41aba1ed212c80360
+      internalID: 21300220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_111
+      rect:
+        serializedVersion: 2
+        x: 276
+        y: 28
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38f65adc1d4774140be6d120be407287
+      internalID: 21300222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_112
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 28
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5483522fb8441a04d9ef4ae4addfd61f
+      internalID: 21300224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_113
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 28
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2e0fffa8730bbf43b583dd7ce29280b
+      internalID: 21300226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_114
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 26
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f357a4bfc969bfe44b2db3cf83df9ff6
+      internalID: 21300228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_115
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 28
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 055d774bcd325d44093d5f26d878ba80
+      internalID: 21300230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_116
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 28
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9631797c9e6a3d14fa346601fbe5cf6f
+      internalID: 21300232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_117
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 15
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c548656514ec94241b6cc4cd34f313c7
+      internalID: 21300234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_118
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 15
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cad87dad89543b941b6636a490a4e920
+      internalID: 21300236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_119
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 15
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4347b8c7c8dec040a814f69a9cce848
+      internalID: 21300238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_120
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 15
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe9aa1e1e39a2cd43abc99f8d7223505
+      internalID: 21300240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_121
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 15
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21b3147289e65124f8181e7f9aa5aa8c
+      internalID: 21300242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_122
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 15
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feae817e0f965f0428b7f28732c0f5ba
+      internalID: 21300244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_123
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 15
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd08cecef7de3314189087ee87e21a30
+      internalID: 21300246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_124
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 15
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 381308e28d8970748aade48f34c39ecf
+      internalID: 21300248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_125
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 15
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32568059da04310409fac182c891592c
+      internalID: 21300250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_126
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 15
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6906ebace95e4d34ea811ba768f87d0d
+      internalID: 21300252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_127
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 15
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9aaa38651e737c46a58cda869fea52e
+      internalID: 21300254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: grenademan_x5_parts_128
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 15
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f31c40c64e59443b98bfcc77cb081b
+      internalID: 21300256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 3f8b94c21bfa38644baa12558085ef0b
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
